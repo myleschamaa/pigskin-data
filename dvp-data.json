@@ -1,0 +1,4691 @@
+{
+  "schemaVersion": 1,
+  "provider": "pigskin_dvp",
+  "generatedAt": "2026-06-12T06:32:48.095Z",
+  "source": {
+    "dataRound": 13,
+    "currentRound": 14,
+    "roundSelection": "Last 5 Rounds",
+    "roundsIncluded": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "roundsWithDataIncluded": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "scoring": "AF",
+    "metric": "Points",
+    "dvpDataRowCount": 5038,
+    "filteredRowCount": 1443,
+    "roundRange": {
+      "min": 0,
+      "max": 13,
+      "values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "ignoredPositionRows": 3,
+    "skippedInvalidRows": 0
+  },
+  "columns": [
+    "FULL TEAM",
+    "KEY FWD",
+    "SML FWD",
+    "HIGH FWD",
+    "RUCK",
+    "INS MID",
+    "OUT MID",
+    "REB BACK",
+    "GEN BACK",
+    "KEY BACK"
+  ],
+  "byOpponent": {
+    "ADE": {
+      "sourceOpponent": "ADL",
+      "display": {
+        "FULL TEAM": "-8.3 21% 99",
+        "KEY FWD": "-12.7 11% 68",
+        "SML FWD": "+1.0 57% 62",
+        "HIGH FWD": "-13.5 0% 74",
+        "RUCK": "-15.2 0% 63",
+        "INS MID": "-11.7 18% 99",
+        "OUT MID": "-7.2 17% 77",
+        "REB BACK": "-14.9 11% 76",
+        "GEN BACK": "-4.0 17% 74",
+        "KEY BACK": "+4.1 63% 74"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-12.7 11% 68",
+          "delta": -12.7241,
+          "deltaDisplay": -12.7,
+          "percentOverAverage": 11.1111,
+          "percentOverAverageDisplay": 11,
+          "averageHighestScore": 68.3333,
+          "averageHighestScoreDisplay": 68,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "+1.0 57% 62",
+          "delta": 0.9631,
+          "deltaDisplay": 1,
+          "percentOverAverage": 57.1429,
+          "percentOverAverageDisplay": 57,
+          "averageHighestScore": 62,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "-13.5 0% 74",
+          "delta": -13.5267,
+          "deltaDisplay": -13.5,
+          "percentOverAverage": 0,
+          "percentOverAverageDisplay": 0,
+          "averageHighestScore": 74,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "-15.2 0% 63",
+          "delta": -15.2481,
+          "deltaDisplay": -15.2,
+          "percentOverAverage": 0,
+          "percentOverAverageDisplay": 0,
+          "averageHighestScore": 63.3333,
+          "averageHighestScoreDisplay": 63,
+          "sampleSize": 3,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "-11.7 18% 99",
+          "delta": -11.7198,
+          "deltaDisplay": -11.7,
+          "percentOverAverage": 18.1818,
+          "percentOverAverageDisplay": 18,
+          "averageHighestScore": 99,
+          "averageHighestScoreDisplay": 99,
+          "sampleSize": 11,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "-7.2 17% 77",
+          "delta": -7.1649,
+          "deltaDisplay": -7.2,
+          "percentOverAverage": 16.6667,
+          "percentOverAverageDisplay": 17,
+          "averageHighestScore": 77.3333,
+          "averageHighestScoreDisplay": 77,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "-14.9 11% 76",
+          "delta": -14.8794,
+          "deltaDisplay": -14.9,
+          "percentOverAverage": 11.1111,
+          "percentOverAverageDisplay": 11,
+          "averageHighestScore": 76,
+          "averageHighestScoreDisplay": 76,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "-4.0 17% 74",
+          "delta": -4.03,
+          "deltaDisplay": -4,
+          "percentOverAverage": 16.6667,
+          "percentOverAverageDisplay": 17,
+          "averageHighestScore": 73.5,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 6,
+          "roundCount": 2
+        },
+        "KEY BACK": {
+          "display": "+4.1 63% 74",
+          "delta": 4.0723,
+          "deltaDisplay": 4.1,
+          "percentOverAverage": 62.5,
+          "percentOverAverageDisplay": 63,
+          "averageHighestScore": 74,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "-8.3 21% 99",
+          "delta": -8.2508,
+          "deltaDisplay": -8.3,
+          "percentOverAverage": 21.4867,
+          "percentOverAverageDisplay": 21,
+          "averageHighestScore": 99,
+          "averageHighestScoreDisplay": 99,
+          "sampleSize": 67,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    "BL": {
+      "sourceOpponent": "BRL",
+      "display": {
+        "FULL TEAM": "+0.5 48% 114",
+        "KEY FWD": "+11.6 69% 86",
+        "SML FWD": "+12.6 56% 74",
+        "HIGH FWD": "-0.2 50% 95",
+        "RUCK": "-8.9 33% 70",
+        "INS MID": "+8.1 54% 114",
+        "OUT MID": "-6.3 43% 66",
+        "REB BACK": "-0.1 56% 103",
+        "GEN BACK": "-2.9 38% 79",
+        "KEY BACK": "-9.6 38% 53"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+11.6 69% 86",
+          "delta": 11.5533,
+          "deltaDisplay": 11.6,
+          "percentOverAverage": 69.2308,
+          "percentOverAverageDisplay": 69,
+          "averageHighestScore": 85.5,
+          "averageHighestScoreDisplay": 86,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+12.6 56% 74",
+          "delta": 12.6364,
+          "deltaDisplay": 12.6,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 73.75,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-0.2 50% 95",
+          "delta": -0.23,
+          "deltaDisplay": -0.2,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 95.25,
+          "averageHighestScoreDisplay": 95,
+          "sampleSize": 6,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "-8.9 33% 70",
+          "delta": -8.9011,
+          "deltaDisplay": -8.9,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 70.25,
+          "averageHighestScoreDisplay": 70,
+          "sampleSize": 6,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "+8.1 54% 114",
+          "delta": 8.0731,
+          "deltaDisplay": 8.1,
+          "percentOverAverage": 53.8462,
+          "percentOverAverageDisplay": 54,
+          "averageHighestScore": 114.25,
+          "averageHighestScoreDisplay": 114,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "-6.3 43% 66",
+          "delta": -6.3059,
+          "deltaDisplay": -6.3,
+          "percentOverAverage": 42.8571,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 66,
+          "averageHighestScoreDisplay": 66,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-0.1 56% 103",
+          "delta": -0.1079,
+          "deltaDisplay": -0.1,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 102.5,
+          "averageHighestScoreDisplay": 103,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-2.9 38% 79",
+          "delta": -2.9377,
+          "deltaDisplay": -2.9,
+          "percentOverAverage": 38.4615,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 78.5,
+          "averageHighestScoreDisplay": 79,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "-9.6 38% 53",
+          "delta": -9.6145,
+          "deltaDisplay": -9.6,
+          "percentOverAverage": 37.5,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 53,
+          "averageHighestScoreDisplay": 53,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+0.5 48% 114",
+          "delta": 0.4629,
+          "deltaDisplay": 0.5,
+          "percentOverAverage": 48.4822,
+          "percentOverAverageDisplay": 48,
+          "averageHighestScore": 114.25,
+          "averageHighestScoreDisplay": 114,
+          "sampleSize": 84,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "CAR": {
+      "sourceOpponent": "CAR",
+      "display": {
+        "FULL TEAM": "-2.3 45% 121",
+        "KEY FWD": "-2.8 40% 72",
+        "SML FWD": "-2.6 44% 50",
+        "HIGH FWD": "-4.5 38% 81",
+        "RUCK": "-2.3 50% 66",
+        "INS MID": "+3.5 53% 121",
+        "OUT MID": "-6.0 45% 68",
+        "REB BACK": "-7.2 33% 82",
+        "GEN BACK": "-0.4 40% 72",
+        "KEY BACK": "+1.5 58% 74"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-2.8 40% 72",
+          "delta": -2.7691,
+          "deltaDisplay": -2.8,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 72,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-2.6 44% 50",
+          "delta": -2.5769,
+          "deltaDisplay": -2.6,
+          "percentOverAverage": 44.4444,
+          "percentOverAverageDisplay": 44,
+          "averageHighestScore": 50.25,
+          "averageHighestScoreDisplay": 50,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-4.5 38% 81",
+          "delta": -4.4687,
+          "deltaDisplay": -4.5,
+          "percentOverAverage": 37.5,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 81.25,
+          "averageHighestScoreDisplay": 81,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "-2.3 50% 66",
+          "delta": -2.2647,
+          "deltaDisplay": -2.3,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 66,
+          "averageHighestScoreDisplay": 66,
+          "sampleSize": 4,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+3.5 53% 121",
+          "delta": 3.4792,
+          "deltaDisplay": 3.5,
+          "percentOverAverage": 53.3333,
+          "percentOverAverageDisplay": 53,
+          "averageHighestScore": 121,
+          "averageHighestScoreDisplay": 121,
+          "sampleSize": 15,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "-6.0 45% 68",
+          "delta": -6.0311,
+          "deltaDisplay": -6,
+          "percentOverAverage": 45.4545,
+          "percentOverAverageDisplay": 45,
+          "averageHighestScore": 68,
+          "averageHighestScoreDisplay": 68,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-7.2 33% 82",
+          "delta": -7.1981,
+          "deltaDisplay": -7.2,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 82.25,
+          "averageHighestScoreDisplay": 82,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-0.4 40% 72",
+          "delta": -0.4328,
+          "deltaDisplay": -0.4,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 71.75,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+1.5 58% 74",
+          "delta": 1.4807,
+          "deltaDisplay": 1.5,
+          "percentOverAverage": 58.3333,
+          "percentOverAverageDisplay": 58,
+          "averageHighestScore": 73.75,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-2.3 45% 121",
+          "delta": -2.3091,
+          "deltaDisplay": -2.3,
+          "percentOverAverage": 44.711,
+          "percentOverAverageDisplay": 45,
+          "averageHighestScore": 121,
+          "averageHighestScoreDisplay": 121,
+          "sampleSize": 88,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "COL": {
+      "sourceOpponent": "COL",
+      "display": {
+        "FULL TEAM": "+3.3 52% 121",
+        "KEY FWD": "-5.7 40% 60",
+        "SML FWD": "+5.0 67% 70",
+        "HIGH FWD": "-4.5 29% 74",
+        "RUCK": "+24.2 100% 121",
+        "INS MID": "-1.6 41% 102",
+        "OUT MID": "+3.6 40% 67",
+        "REB BACK": "-0.9 36% 101",
+        "GEN BACK": "+4.8 45% 92",
+        "KEY BACK": "+4.4 69% 78"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-5.7 40% 60",
+          "delta": -5.6728,
+          "deltaDisplay": -5.7,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 60.25,
+          "averageHighestScoreDisplay": 60,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+5.0 67% 70",
+          "delta": 5.0369,
+          "deltaDisplay": 5,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 69.5,
+          "averageHighestScoreDisplay": 70,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-4.5 29% 74",
+          "delta": -4.4533,
+          "deltaDisplay": -4.5,
+          "percentOverAverage": 28.5714,
+          "percentOverAverageDisplay": 29,
+          "averageHighestScore": 74.3333,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "+24.2 100% 121",
+          "delta": 24.2035,
+          "deltaDisplay": 24.2,
+          "percentOverAverage": 100,
+          "percentOverAverageDisplay": 100,
+          "averageHighestScore": 120.75,
+          "averageHighestScoreDisplay": 121,
+          "sampleSize": 4,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-1.6 41% 102",
+          "delta": -1.623,
+          "deltaDisplay": -1.6,
+          "percentOverAverage": 41.1765,
+          "percentOverAverageDisplay": 41,
+          "averageHighestScore": 102,
+          "averageHighestScoreDisplay": 102,
+          "sampleSize": 17,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+3.6 40% 67",
+          "delta": 3.6013,
+          "deltaDisplay": 3.6,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 67,
+          "averageHighestScoreDisplay": 67,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-0.9 36% 101",
+          "delta": -0.8793,
+          "deltaDisplay": -0.9,
+          "percentOverAverage": 36.3636,
+          "percentOverAverageDisplay": 36,
+          "averageHighestScore": 101.25,
+          "averageHighestScoreDisplay": 101,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+4.8 45% 92",
+          "delta": 4.8375,
+          "deltaDisplay": 4.8,
+          "percentOverAverage": 45.4545,
+          "percentOverAverageDisplay": 45,
+          "averageHighestScore": 91.75,
+          "averageHighestScoreDisplay": 92,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+4.4 69% 78",
+          "delta": 4.3877,
+          "deltaDisplay": 4.4,
+          "percentOverAverage": 69.2308,
+          "percentOverAverageDisplay": 69,
+          "averageHighestScore": 77.75,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+3.3 52% 121",
+          "delta": 3.2709,
+          "deltaDisplay": 3.3,
+          "percentOverAverage": 51.9404,
+          "percentOverAverageDisplay": 52,
+          "averageHighestScore": 120.75,
+          "averageHighestScoreDisplay": 121,
+          "sampleSize": 87,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "ESS": {
+      "sourceOpponent": "ESS",
+      "display": {
+        "FULL TEAM": "+1.6 54% 109",
+        "KEY FWD": "+4.6 67% 82",
+        "SML FWD": "+3.2 50% 71",
+        "HIGH FWD": "-2.3 50% 78",
+        "RUCK": "-11.9 20% 62",
+        "INS MID": "+2.8 47% 109",
+        "OUT MID": "+11.3 80% 89",
+        "REB BACK": "-4.7 27% 95",
+        "GEN BACK": "+3.4 67% 76",
+        "KEY BACK": "+7.8 78% 73"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+4.6 67% 82",
+          "delta": 4.5615,
+          "deltaDisplay": 4.6,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 82,
+          "averageHighestScoreDisplay": 82,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+3.2 50% 71",
+          "delta": 3.1534,
+          "deltaDisplay": 3.2,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 71.25,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-2.3 50% 78",
+          "delta": -2.3461,
+          "deltaDisplay": -2.3,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 78,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 2,
+          "roundCount": 2
+        },
+        "RUCK": {
+          "display": "-11.9 20% 62",
+          "delta": -11.8869,
+          "deltaDisplay": -11.9,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 61.5,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "+2.8 47% 109",
+          "delta": 2.7985,
+          "deltaDisplay": 2.8,
+          "percentOverAverage": 46.6667,
+          "percentOverAverageDisplay": 47,
+          "averageHighestScore": 108.75,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 15,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+11.3 80% 89",
+          "delta": 11.3272,
+          "deltaDisplay": 11.3,
+          "percentOverAverage": 80,
+          "percentOverAverageDisplay": 80,
+          "averageHighestScore": 88.75,
+          "averageHighestScoreDisplay": 89,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-4.7 27% 95",
+          "delta": -4.6635,
+          "deltaDisplay": -4.7,
+          "percentOverAverage": 27.2727,
+          "percentOverAverageDisplay": 27,
+          "averageHighestScore": 95.25,
+          "averageHighestScoreDisplay": 95,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+3.4 67% 76",
+          "delta": 3.4197,
+          "deltaDisplay": 3.4,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 76,
+          "averageHighestScoreDisplay": 76,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+7.8 78% 73",
+          "delta": 7.8454,
+          "deltaDisplay": 7.8,
+          "percentOverAverage": 77.7778,
+          "percentOverAverageDisplay": 78,
+          "averageHighestScore": 73,
+          "averageHighestScoreDisplay": 73,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+1.6 54% 109",
+          "delta": 1.5788,
+          "deltaDisplay": 1.6,
+          "percentOverAverage": 53.8945,
+          "percentOverAverageDisplay": 54,
+          "averageHighestScore": 108.75,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 85,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "FRE": {
+      "sourceOpponent": "FRE",
+      "display": {
+        "FULL TEAM": "-7.8 27% 105",
+        "KEY FWD": "-5.8 25% 71",
+        "SML FWD": "-7.9 22% 54",
+        "HIGH FWD": "-6.1 43% 75",
+        "RUCK": "-12.8 20% 61",
+        "INS MID": "-8.4 26% 100",
+        "OUT MID": "-12.0 20% 72",
+        "REB BACK": "+2.1 44% 105",
+        "GEN BACK": "-9.3 25% 45",
+        "KEY BACK": "-10.0 18% 60"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-5.8 25% 71",
+          "delta": -5.792,
+          "deltaDisplay": -5.8,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 70.75,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-7.9 22% 54",
+          "delta": -7.9495,
+          "deltaDisplay": -7.9,
+          "percentOverAverage": 22.2222,
+          "percentOverAverageDisplay": 22,
+          "averageHighestScore": 54,
+          "averageHighestScoreDisplay": 54,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-6.1 43% 75",
+          "delta": -6.0574,
+          "deltaDisplay": -6.1,
+          "percentOverAverage": 42.8571,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 74.5,
+          "averageHighestScoreDisplay": 75,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "-12.8 20% 61",
+          "delta": -12.758,
+          "deltaDisplay": -12.8,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 60.75,
+          "averageHighestScoreDisplay": 61,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-8.4 26% 100",
+          "delta": -8.3811,
+          "deltaDisplay": -8.4,
+          "percentOverAverage": 26.3158,
+          "percentOverAverageDisplay": 26,
+          "averageHighestScore": 99.75,
+          "averageHighestScoreDisplay": 100,
+          "sampleSize": 19,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "-12.0 20% 72",
+          "delta": -12.029,
+          "deltaDisplay": -12,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 71.5,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "+2.1 44% 105",
+          "delta": 2.1223,
+          "deltaDisplay": 2.1,
+          "percentOverAverage": 44.4444,
+          "percentOverAverageDisplay": 44,
+          "averageHighestScore": 105,
+          "averageHighestScoreDisplay": 105,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-9.3 25% 45",
+          "delta": -9.3323,
+          "deltaDisplay": -9.3,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 44.5,
+          "averageHighestScoreDisplay": 45,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "-10.0 18% 60",
+          "delta": -9.9882,
+          "deltaDisplay": -10,
+          "percentOverAverage": 18.1818,
+          "percentOverAverageDisplay": 18,
+          "averageHighestScore": 60.25,
+          "averageHighestScoreDisplay": 60,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-7.8 27% 105",
+          "delta": -7.7961,
+          "deltaDisplay": -7.8,
+          "percentOverAverage": 27.1135,
+          "percentOverAverageDisplay": 27,
+          "averageHighestScore": 105,
+          "averageHighestScoreDisplay": 105,
+          "sampleSize": 90,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "GC": {
+      "sourceOpponent": "GCS",
+      "display": {
+        "FULL TEAM": "-2.7 32% 123",
+        "KEY FWD": "+3.6 43% 81",
+        "SML FWD": "+6.1 50% 83",
+        "HIGH FWD": "-8.2 17% 73",
+        "RUCK": "-9.6 40% 75",
+        "INS MID": "+5.6 58% 123",
+        "OUT MID": "+1.2 50% 87",
+        "REB BACK": "-7.5 33% 90",
+        "GEN BACK": "-3.1 0% 38",
+        "KEY BACK": "-12.7 0% 47"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+3.6 43% 81",
+          "delta": 3.5649,
+          "deltaDisplay": 3.6,
+          "percentOverAverage": 42.8571,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 81.3333,
+          "averageHighestScoreDisplay": 81,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "+6.1 50% 83",
+          "delta": 6.1234,
+          "deltaDisplay": 6.1,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 83.3333,
+          "averageHighestScoreDisplay": 83,
+          "sampleSize": 12,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "-8.2 17% 73",
+          "delta": -8.2382,
+          "deltaDisplay": -8.2,
+          "percentOverAverage": 16.6667,
+          "percentOverAverageDisplay": 17,
+          "averageHighestScore": 73,
+          "averageHighestScoreDisplay": 73,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "-9.6 40% 75",
+          "delta": -9.594,
+          "deltaDisplay": -9.6,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 75,
+          "averageHighestScoreDisplay": 75,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+5.6 58% 123",
+          "delta": 5.5571,
+          "deltaDisplay": 5.6,
+          "percentOverAverage": 58.3333,
+          "percentOverAverageDisplay": 58,
+          "averageHighestScore": 123.3333,
+          "averageHighestScoreDisplay": 123,
+          "sampleSize": 12,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "+1.2 50% 87",
+          "delta": 1.1998,
+          "deltaDisplay": 1.2,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 87.3333,
+          "averageHighestScoreDisplay": 87,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "-7.5 33% 90",
+          "delta": -7.5191,
+          "deltaDisplay": -7.5,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 90,
+          "averageHighestScoreDisplay": 90,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "-3.1 0% 38",
+          "delta": -3.0667,
+          "deltaDisplay": -3.1,
+          "percentOverAverage": 0,
+          "percentOverAverageDisplay": 0,
+          "averageHighestScore": 38,
+          "averageHighestScoreDisplay": 38,
+          "sampleSize": 3,
+          "roundCount": 2
+        },
+        "KEY BACK": {
+          "display": "-12.7 0% 47",
+          "delta": -12.7192,
+          "deltaDisplay": -12.7,
+          "percentOverAverage": 0,
+          "percentOverAverageDisplay": 0,
+          "averageHighestScore": 46.6667,
+          "averageHighestScoreDisplay": 47,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "-2.7 32% 123",
+          "delta": -2.7436,
+          "deltaDisplay": -2.7,
+          "percentOverAverage": 32.3545,
+          "percentOverAverageDisplay": 32,
+          "averageHighestScore": 123.3333,
+          "averageHighestScoreDisplay": 123,
+          "sampleSize": 67,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    "GEE": {
+      "sourceOpponent": "GEE",
+      "display": {
+        "FULL TEAM": "-0.5 47% 106",
+        "KEY FWD": "-2.7 44% 67",
+        "SML FWD": "-2.8 46% 75",
+        "HIGH FWD": "+4.3 56% 93",
+        "RUCK": "+7.0 60% 88",
+        "INS MID": "-3.2 41% 106",
+        "OUT MID": "-5.4 29% 76",
+        "REB BACK": "-3.7 36% 102",
+        "GEN BACK": "-1.7 57% 71",
+        "KEY BACK": "+4.1 50% 72"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-2.7 44% 67",
+          "delta": -2.7475,
+          "deltaDisplay": -2.7,
+          "percentOverAverage": 44.4444,
+          "percentOverAverageDisplay": 44,
+          "averageHighestScore": 66.5,
+          "averageHighestScoreDisplay": 67,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-2.8 46% 75",
+          "delta": -2.7818,
+          "deltaDisplay": -2.8,
+          "percentOverAverage": 46.1538,
+          "percentOverAverageDisplay": 46,
+          "averageHighestScore": 74.75,
+          "averageHighestScoreDisplay": 75,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "+4.3 56% 93",
+          "delta": 4.3152,
+          "deltaDisplay": 4.3,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 92.5,
+          "averageHighestScoreDisplay": 93,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "+7.0 60% 88",
+          "delta": 7.0167,
+          "deltaDisplay": 7,
+          "percentOverAverage": 60,
+          "percentOverAverageDisplay": 60,
+          "averageHighestScore": 87.75,
+          "averageHighestScoreDisplay": 88,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-3.2 41% 106",
+          "delta": -3.1789,
+          "deltaDisplay": -3.2,
+          "percentOverAverage": 41.1765,
+          "percentOverAverageDisplay": 41,
+          "averageHighestScore": 105.75,
+          "averageHighestScoreDisplay": 106,
+          "sampleSize": 17,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "-5.4 29% 76",
+          "delta": -5.4454,
+          "deltaDisplay": -5.4,
+          "percentOverAverage": 28.5714,
+          "percentOverAverageDisplay": 29,
+          "averageHighestScore": 76.25,
+          "averageHighestScoreDisplay": 76,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-3.7 36% 102",
+          "delta": -3.6945,
+          "deltaDisplay": -3.7,
+          "percentOverAverage": 36.3636,
+          "percentOverAverageDisplay": 36,
+          "averageHighestScore": 102,
+          "averageHighestScoreDisplay": 102,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-1.7 57% 71",
+          "delta": -1.7327,
+          "deltaDisplay": -1.7,
+          "percentOverAverage": 57.1429,
+          "percentOverAverageDisplay": 57,
+          "averageHighestScore": 70.5,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+4.1 50% 72",
+          "delta": 4.1208,
+          "deltaDisplay": 4.1,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 72.25,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-0.5 47% 106",
+          "delta": -0.4587,
+          "deltaDisplay": -0.5,
+          "percentOverAverage": 46.6009,
+          "percentOverAverageDisplay": 47,
+          "averageHighestScore": 105.75,
+          "averageHighestScoreDisplay": 106,
+          "sampleSize": 88,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "GWS": {
+      "sourceOpponent": "GWS",
+      "display": {
+        "FULL TEAM": "+1.1 42% 111",
+        "KEY FWD": "-6.9 33% 57",
+        "SML FWD": "+2.9 42% 68",
+        "HIGH FWD": "+3.4 25% 79",
+        "RUCK": "+17.3 75% 111",
+        "INS MID": "-2.7 25% 109",
+        "OUT MID": "-2.2 40% 67",
+        "REB BACK": "+0.0 56% 88",
+        "GEN BACK": "-9.5 20% 72",
+        "KEY BACK": "+7.5 67% 62"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-6.9 33% 57",
+          "delta": -6.8712,
+          "deltaDisplay": -6.9,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 56.6667,
+          "averageHighestScoreDisplay": 57,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "+2.9 42% 68",
+          "delta": 2.928,
+          "deltaDisplay": 2.9,
+          "percentOverAverage": 41.6667,
+          "percentOverAverageDisplay": 42,
+          "averageHighestScore": 68,
+          "averageHighestScoreDisplay": 68,
+          "sampleSize": 12,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "+3.4 25% 79",
+          "delta": 3.4391,
+          "deltaDisplay": 3.4,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 78.5,
+          "averageHighestScoreDisplay": 79,
+          "sampleSize": 4,
+          "roundCount": 2
+        },
+        "RUCK": {
+          "display": "+17.3 75% 111",
+          "delta": 17.3077,
+          "deltaDisplay": 17.3,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 110.6667,
+          "averageHighestScoreDisplay": 111,
+          "sampleSize": 4,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "-2.7 25% 109",
+          "delta": -2.7198,
+          "deltaDisplay": -2.7,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 108.6667,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 12,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "-2.2 40% 67",
+          "delta": -2.1923,
+          "deltaDisplay": -2.2,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 67,
+          "averageHighestScoreDisplay": 67,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "+0.0 56% 88",
+          "delta": 0.042,
+          "deltaDisplay": 0,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 88.3333,
+          "averageHighestScoreDisplay": 88,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "-9.5 20% 72",
+          "delta": -9.5327,
+          "deltaDisplay": -9.5,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 71.5,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 5,
+          "roundCount": 2
+        },
+        "KEY BACK": {
+          "display": "+7.5 67% 62",
+          "delta": 7.4788,
+          "deltaDisplay": 7.5,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 62.3333,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "+1.1 42% 111",
+          "delta": 1.0977,
+          "deltaDisplay": 1.1,
+          "percentOverAverage": 42.4691,
+          "percentOverAverageDisplay": 42,
+          "averageHighestScore": 110.6667,
+          "averageHighestScoreDisplay": 111,
+          "sampleSize": 66,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    "HAW": {
+      "sourceOpponent": "HAW",
+      "display": {
+        "FULL TEAM": "-1.0 51% 108",
+        "KEY FWD": "-0.9 40% 69",
+        "SML FWD": "-2.4 40% 62",
+        "HIGH FWD": "-4.6 33% 78",
+        "RUCK": "-19.4 20% 78",
+        "INS MID": "-2.6 38% 105",
+        "OUT MID": "+6.0 67% 78",
+        "REB BACK": "+11.3 86% 108",
+        "GEN BACK": "-4.7 63% 65",
+        "KEY BACK": "+8.0 73% 89"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-0.9 40% 69",
+          "delta": -0.8561,
+          "deltaDisplay": -0.9,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 68.5,
+          "averageHighestScoreDisplay": 69,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-2.4 40% 62",
+          "delta": -2.4157,
+          "deltaDisplay": -2.4,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 61.5,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-4.6 33% 78",
+          "delta": -4.553,
+          "deltaDisplay": -4.6,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 77.5,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "-19.4 20% 78",
+          "delta": -19.3885,
+          "deltaDisplay": -19.4,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 77.5,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-2.6 38% 105",
+          "delta": -2.6024,
+          "deltaDisplay": -2.6,
+          "percentOverAverage": 37.5,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 105,
+          "averageHighestScoreDisplay": 105,
+          "sampleSize": 16,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+6.0 67% 78",
+          "delta": 5.9752,
+          "deltaDisplay": 6,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 78.25,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "+11.3 86% 108",
+          "delta": 11.3051,
+          "deltaDisplay": 11.3,
+          "percentOverAverage": 85.7143,
+          "percentOverAverageDisplay": 86,
+          "averageHighestScore": 108,
+          "averageHighestScoreDisplay": 108,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-4.7 63% 65",
+          "delta": -4.684,
+          "deltaDisplay": -4.7,
+          "percentOverAverage": 62.5,
+          "percentOverAverageDisplay": 63,
+          "averageHighestScore": 65,
+          "averageHighestScoreDisplay": 65,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+8.0 73% 89",
+          "delta": 7.9591,
+          "deltaDisplay": 8,
+          "percentOverAverage": 72.7273,
+          "percentOverAverageDisplay": 73,
+          "averageHighestScore": 88.75,
+          "averageHighestScoreDisplay": 89,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-1.0 51% 108",
+          "delta": -1.0289,
+          "deltaDisplay": -1,
+          "percentOverAverage": 50.938,
+          "percentOverAverageDisplay": 51,
+          "averageHighestScore": 108,
+          "averageHighestScoreDisplay": 108,
+          "sampleSize": 85,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "MEL": {
+      "sourceOpponent": "MEL",
+      "display": {
+        "FULL TEAM": "+2.2 53% 111",
+        "KEY FWD": "+5.6 55% 75",
+        "SML FWD": "-1.3 43% 58",
+        "HIGH FWD": "+1.9 40% 95",
+        "RUCK": "-6.9 33% 63",
+        "INS MID": "+3.4 63% 111",
+        "OUT MID": "+3.0 57% 78",
+        "REB BACK": "+5.2 78% 111",
+        "GEN BACK": "+4.8 50% 92",
+        "KEY BACK": "+3.8 60% 82"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+5.6 55% 75",
+          "delta": 5.6241,
+          "deltaDisplay": 5.6,
+          "percentOverAverage": 54.5455,
+          "percentOverAverageDisplay": 55,
+          "averageHighestScore": 75.25,
+          "averageHighestScoreDisplay": 75,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-1.3 43% 58",
+          "delta": -1.3027,
+          "deltaDisplay": -1.3,
+          "percentOverAverage": 42.8571,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 58.25,
+          "averageHighestScoreDisplay": 58,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "+1.9 40% 95",
+          "delta": 1.8791,
+          "deltaDisplay": 1.9,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 95,
+          "averageHighestScoreDisplay": 95,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "-6.9 33% 63",
+          "delta": -6.9028,
+          "deltaDisplay": -6.9,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 63.3333,
+          "averageHighestScoreDisplay": 63,
+          "sampleSize": 3,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+3.4 63% 111",
+          "delta": 3.4455,
+          "deltaDisplay": 3.4,
+          "percentOverAverage": 62.5,
+          "percentOverAverageDisplay": 63,
+          "averageHighestScore": 110.75,
+          "averageHighestScoreDisplay": 111,
+          "sampleSize": 16,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+3.0 57% 78",
+          "delta": 2.9581,
+          "deltaDisplay": 3,
+          "percentOverAverage": 57.1429,
+          "percentOverAverageDisplay": 57,
+          "averageHighestScore": 78,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "+5.2 78% 111",
+          "delta": 5.1502,
+          "deltaDisplay": 5.2,
+          "percentOverAverage": 77.7778,
+          "percentOverAverageDisplay": 78,
+          "averageHighestScore": 111.25,
+          "averageHighestScoreDisplay": 111,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+4.8 50% 92",
+          "delta": 4.7794,
+          "deltaDisplay": 4.8,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 92.25,
+          "averageHighestScoreDisplay": 92,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+3.8 60% 82",
+          "delta": 3.7833,
+          "deltaDisplay": 3.8,
+          "percentOverAverage": 60,
+          "percentOverAverageDisplay": 60,
+          "averageHighestScore": 81.75,
+          "averageHighestScoreDisplay": 82,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+2.2 53% 111",
+          "delta": 2.1571,
+          "deltaDisplay": 2.2,
+          "percentOverAverage": 53.1285,
+          "percentOverAverageDisplay": 53,
+          "averageHighestScore": 111.25,
+          "averageHighestScoreDisplay": 111,
+          "sampleSize": 85,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "NM": {
+      "sourceOpponent": "NTH",
+      "display": {
+        "FULL TEAM": "+1.1 54% 109",
+        "KEY FWD": "+7.6 83% 80",
+        "SML FWD": "+3.7 75% 66",
+        "HIGH FWD": "+4.9 67% 88",
+        "RUCK": "-2.2 17% 86",
+        "INS MID": "+8.0 62% 109",
+        "OUT MID": "+5.7 75% 81",
+        "REB BACK": "-7.9 29% 78",
+        "GEN BACK": "-8.0 43% 71",
+        "KEY BACK": "-1.8 38% 74"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+7.6 83% 80",
+          "delta": 7.5537,
+          "deltaDisplay": 7.6,
+          "percentOverAverage": 83.3333,
+          "percentOverAverageDisplay": 83,
+          "averageHighestScore": 80,
+          "averageHighestScoreDisplay": 80,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "+3.7 75% 66",
+          "delta": 3.6836,
+          "deltaDisplay": 3.7,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 66.3333,
+          "averageHighestScoreDisplay": 66,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "+4.9 67% 88",
+          "delta": 4.8885,
+          "deltaDisplay": 4.9,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 88,
+          "averageHighestScoreDisplay": 88,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "-2.2 17% 86",
+          "delta": -2.165,
+          "deltaDisplay": -2.2,
+          "percentOverAverage": 16.6667,
+          "percentOverAverageDisplay": 17,
+          "averageHighestScore": 86,
+          "averageHighestScoreDisplay": 86,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+8.0 62% 109",
+          "delta": 7.9708,
+          "deltaDisplay": 8,
+          "percentOverAverage": 61.5385,
+          "percentOverAverageDisplay": 62,
+          "averageHighestScore": 109.3333,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 13,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "+5.7 75% 81",
+          "delta": 5.7379,
+          "deltaDisplay": 5.7,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 80.6667,
+          "averageHighestScoreDisplay": 81,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "-7.9 29% 78",
+          "delta": -7.8627,
+          "deltaDisplay": -7.9,
+          "percentOverAverage": 28.5714,
+          "percentOverAverageDisplay": 29,
+          "averageHighestScore": 78.3333,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "-8.0 43% 71",
+          "delta": -7.9705,
+          "deltaDisplay": -8,
+          "percentOverAverage": 42.8571,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 71,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "KEY BACK": {
+          "display": "-1.8 38% 74",
+          "delta": -1.7716,
+          "deltaDisplay": -1.8,
+          "percentOverAverage": 37.5,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 74,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "+1.1 54% 109",
+          "delta": 1.1183,
+          "deltaDisplay": 1.1,
+          "percentOverAverage": 54.126,
+          "percentOverAverageDisplay": 54,
+          "averageHighestScore": 109.3333,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 69,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    "PA": {
+      "sourceOpponent": "PTA",
+      "display": {
+        "FULL TEAM": "+3.9 64% 117",
+        "KEY FWD": "+9.8 86% 90",
+        "SML FWD": "-0.0 50% 62",
+        "HIGH FWD": "-8.0 0% 76",
+        "RUCK": "+3.8 100% 79",
+        "INS MID": "+3.6 64% 107",
+        "OUT MID": "+5.4 80% 65",
+        "REB BACK": "+8.8 67% 117",
+        "GEN BACK": "+4.3 56% 89",
+        "KEY BACK": "+7.2 75% 68"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+9.8 86% 90",
+          "delta": 9.8215,
+          "deltaDisplay": 9.8,
+          "percentOverAverage": 85.7143,
+          "percentOverAverageDisplay": 86,
+          "averageHighestScore": 90.3333,
+          "averageHighestScoreDisplay": 90,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "-0.0 50% 62",
+          "delta": -0.0014,
+          "deltaDisplay": 0,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 61.6667,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "-8.0 0% 76",
+          "delta": -7.9936,
+          "deltaDisplay": -8,
+          "percentOverAverage": 0,
+          "percentOverAverageDisplay": 0,
+          "averageHighestScore": 75.5,
+          "averageHighestScoreDisplay": 76,
+          "sampleSize": 3,
+          "roundCount": 2
+        },
+        "RUCK": {
+          "display": "+3.8 100% 79",
+          "delta": 3.7986,
+          "deltaDisplay": 3.8,
+          "percentOverAverage": 100,
+          "percentOverAverageDisplay": 100,
+          "averageHighestScore": 79.3333,
+          "averageHighestScoreDisplay": 79,
+          "sampleSize": 4,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+3.6 64% 107",
+          "delta": 3.563,
+          "deltaDisplay": 3.6,
+          "percentOverAverage": 63.6364,
+          "percentOverAverageDisplay": 64,
+          "averageHighestScore": 106.6667,
+          "averageHighestScoreDisplay": 107,
+          "sampleSize": 11,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "+5.4 80% 65",
+          "delta": 5.4078,
+          "deltaDisplay": 5.4,
+          "percentOverAverage": 80,
+          "percentOverAverageDisplay": 80,
+          "averageHighestScore": 64.6667,
+          "averageHighestScoreDisplay": 65,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "+8.8 67% 117",
+          "delta": 8.8059,
+          "deltaDisplay": 8.8,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 116.6667,
+          "averageHighestScoreDisplay": 117,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "+4.3 56% 89",
+          "delta": 4.3375,
+          "deltaDisplay": 4.3,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 89.3333,
+          "averageHighestScoreDisplay": 89,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "KEY BACK": {
+          "display": "+7.2 75% 68",
+          "delta": 7.2458,
+          "deltaDisplay": 7.2,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 68.3333,
+          "averageHighestScoreDisplay": 68,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "+3.9 64% 117",
+          "delta": 3.8872,
+          "deltaDisplay": 3.9,
+          "percentOverAverage": 64.0637,
+          "percentOverAverageDisplay": 64,
+          "averageHighestScore": 116.6667,
+          "averageHighestScoreDisplay": 117,
+          "sampleSize": 64,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    "RIC": {
+      "sourceOpponent": "RIC",
+      "display": {
+        "FULL TEAM": "+6.3 68% 145",
+        "KEY FWD": "+18.1 80% 107",
+        "SML FWD": "-7.7 33% 50",
+        "HIGH FWD": "+11.9 83% 93",
+        "RUCK": "+7.3 75% 81",
+        "INS MID": "+11.5 71% 145",
+        "OUT MID": "-10.5 20% 72",
+        "REB BACK": "+3.4 75% 96",
+        "GEN BACK": "+13.2 88% 95",
+        "KEY BACK": "+9.0 89% 101"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+18.1 80% 107",
+          "delta": 18.091,
+          "deltaDisplay": 18.1,
+          "percentOverAverage": 80,
+          "percentOverAverageDisplay": 80,
+          "averageHighestScore": 107,
+          "averageHighestScoreDisplay": 107,
+          "sampleSize": 10,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "-7.7 33% 50",
+          "delta": -7.7146,
+          "deltaDisplay": -7.7,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 50.3333,
+          "averageHighestScoreDisplay": 50,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "+11.9 83% 93",
+          "delta": 11.9095,
+          "deltaDisplay": 11.9,
+          "percentOverAverage": 83.3333,
+          "percentOverAverageDisplay": 83,
+          "averageHighestScore": 93.3333,
+          "averageHighestScoreDisplay": 93,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "+7.3 75% 81",
+          "delta": 7.3346,
+          "deltaDisplay": 7.3,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 81.3333,
+          "averageHighestScoreDisplay": 81,
+          "sampleSize": 4,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+11.5 71% 145",
+          "delta": 11.4927,
+          "deltaDisplay": 11.5,
+          "percentOverAverage": 71.4286,
+          "percentOverAverageDisplay": 71,
+          "averageHighestScore": 145.3333,
+          "averageHighestScoreDisplay": 145,
+          "sampleSize": 14,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "-10.5 20% 72",
+          "delta": -10.4577,
+          "deltaDisplay": -10.5,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 71.6667,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "+3.4 75% 96",
+          "delta": 3.437,
+          "deltaDisplay": 3.4,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 95.6667,
+          "averageHighestScoreDisplay": 96,
+          "sampleSize": 4,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "+13.2 88% 95",
+          "delta": 13.2291,
+          "deltaDisplay": 13.2,
+          "percentOverAverage": 87.5,
+          "percentOverAverageDisplay": 88,
+          "averageHighestScore": 94.6667,
+          "averageHighestScoreDisplay": 95,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "KEY BACK": {
+          "display": "+9.0 89% 101",
+          "delta": 8.9572,
+          "deltaDisplay": 9,
+          "percentOverAverage": 88.8889,
+          "percentOverAverageDisplay": 89,
+          "averageHighestScore": 101,
+          "averageHighestScoreDisplay": 101,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "+6.3 68% 145",
+          "delta": 6.2532,
+          "deltaDisplay": 6.3,
+          "percentOverAverage": 68.276,
+          "percentOverAverageDisplay": 68,
+          "averageHighestScore": 145.3333,
+          "averageHighestScoreDisplay": 145,
+          "sampleSize": 66,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    "STK": {
+      "sourceOpponent": "STK",
+      "display": {
+        "FULL TEAM": "+3.2 55% 102",
+        "KEY FWD": "+6.5 58% 89",
+        "SML FWD": "+0.3 57% 64",
+        "HIGH FWD": "+13.1 89% 102",
+        "RUCK": "-10.8 17% 70",
+        "INS MID": "-2.5 47% 99",
+        "OUT MID": "+11.3 71% 99",
+        "REB BACK": "+0.0 42% 97",
+        "GEN BACK": "+6.0 67% 78",
+        "KEY BACK": "+4.7 50% 84"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+6.5 58% 89",
+          "delta": 6.5088,
+          "deltaDisplay": 6.5,
+          "percentOverAverage": 58.3333,
+          "percentOverAverageDisplay": 58,
+          "averageHighestScore": 89,
+          "averageHighestScoreDisplay": 89,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+0.3 57% 64",
+          "delta": 0.2911,
+          "deltaDisplay": 0.3,
+          "percentOverAverage": 57.1429,
+          "percentOverAverageDisplay": 57,
+          "averageHighestScore": 64.3333,
+          "averageHighestScoreDisplay": 64,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "+13.1 89% 102",
+          "delta": 13.1026,
+          "deltaDisplay": 13.1,
+          "percentOverAverage": 88.8889,
+          "percentOverAverageDisplay": 89,
+          "averageHighestScore": 101.6667,
+          "averageHighestScoreDisplay": 102,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "-10.8 17% 70",
+          "delta": -10.8294,
+          "deltaDisplay": -10.8,
+          "percentOverAverage": 16.6667,
+          "percentOverAverageDisplay": 17,
+          "averageHighestScore": 69.75,
+          "averageHighestScoreDisplay": 70,
+          "sampleSize": 6,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-2.5 47% 99",
+          "delta": -2.458,
+          "deltaDisplay": -2.5,
+          "percentOverAverage": 46.6667,
+          "percentOverAverageDisplay": 47,
+          "averageHighestScore": 99.25,
+          "averageHighestScoreDisplay": 99,
+          "sampleSize": 15,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+11.3 71% 99",
+          "delta": 11.2793,
+          "deltaDisplay": 11.3,
+          "percentOverAverage": 71.4286,
+          "percentOverAverageDisplay": 71,
+          "averageHighestScore": 99.25,
+          "averageHighestScoreDisplay": 99,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "+0.0 42% 97",
+          "delta": 0.0354,
+          "deltaDisplay": 0,
+          "percentOverAverage": 41.6667,
+          "percentOverAverageDisplay": 42,
+          "averageHighestScore": 96.5,
+          "averageHighestScoreDisplay": 97,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+6.0 67% 78",
+          "delta": 6.0397,
+          "deltaDisplay": 6,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 77.75,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+4.7 50% 84",
+          "delta": 4.7364,
+          "deltaDisplay": 4.7,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 84.25,
+          "averageHighestScoreDisplay": 84,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+3.2 55% 102",
+          "delta": 3.1895,
+          "deltaDisplay": 3.2,
+          "percentOverAverage": 55.2734,
+          "percentOverAverageDisplay": 55,
+          "averageHighestScore": 101.6667,
+          "averageHighestScoreDisplay": 102,
+          "sampleSize": 85,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "SYD": {
+      "sourceOpponent": "SYD",
+      "display": {
+        "FULL TEAM": "-2.8 43% 101",
+        "KEY FWD": "+3.7 67% 87",
+        "SML FWD": "+1.5 63% 66",
+        "HIGH FWD": "-13.8 40% 58",
+        "RUCK": "-6.6 20% 56",
+        "INS MID": "-2.2 39% 101",
+        "OUT MID": "-2.7 50% 82",
+        "REB BACK": "-4.5 22% 98",
+        "GEN BACK": "+4.3 50% 71",
+        "KEY BACK": "-4.5 36% 77"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+3.7 67% 87",
+          "delta": 3.7061,
+          "deltaDisplay": 3.7,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 87,
+          "averageHighestScoreDisplay": 87,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+1.5 63% 66",
+          "delta": 1.5332,
+          "deltaDisplay": 1.5,
+          "percentOverAverage": 62.5,
+          "percentOverAverageDisplay": 63,
+          "averageHighestScore": 65.5,
+          "averageHighestScoreDisplay": 66,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-13.8 40% 58",
+          "delta": -13.8254,
+          "deltaDisplay": -13.8,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 58.3333,
+          "averageHighestScoreDisplay": 58,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "-6.6 20% 56",
+          "delta": -6.5624,
+          "deltaDisplay": -6.6,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 56,
+          "averageHighestScoreDisplay": 56,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "-2.2 39% 101",
+          "delta": -2.2447,
+          "deltaDisplay": -2.2,
+          "percentOverAverage": 38.8889,
+          "percentOverAverageDisplay": 39,
+          "averageHighestScore": 100.75,
+          "averageHighestScoreDisplay": 101,
+          "sampleSize": 18,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "-2.7 50% 82",
+          "delta": -2.7074,
+          "deltaDisplay": -2.7,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 82,
+          "averageHighestScoreDisplay": 82,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-4.5 22% 98",
+          "delta": -4.5264,
+          "deltaDisplay": -4.5,
+          "percentOverAverage": 22.2222,
+          "percentOverAverageDisplay": 22,
+          "averageHighestScore": 98,
+          "averageHighestScoreDisplay": 98,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+4.3 50% 71",
+          "delta": 4.3293,
+          "deltaDisplay": 4.3,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 70.5,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "-4.5 36% 77",
+          "delta": -4.5232,
+          "deltaDisplay": -4.5,
+          "percentOverAverage": 36.3636,
+          "percentOverAverageDisplay": 36,
+          "averageHighestScore": 76.75,
+          "averageHighestScoreDisplay": 77,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-2.8 43% 101",
+          "delta": -2.7579,
+          "deltaDisplay": -2.8,
+          "percentOverAverage": 42.9602,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 100.75,
+          "averageHighestScoreDisplay": 101,
+          "sampleSize": 88,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "WB": {
+      "sourceOpponent": "WBD",
+      "display": {
+        "FULL TEAM": "+1.4 52% 115",
+        "KEY FWD": "+3.0 67% 72",
+        "SML FWD": "+0.6 56% 84",
+        "HIGH FWD": "-3.5 33% 78",
+        "RUCK": "+2.9 50% 87",
+        "INS MID": "+1.0 41% 115",
+        "OUT MID": "+6.8 67% 92",
+        "REB BACK": "+3.0 64% 109",
+        "GEN BACK": "+4.3 56% 71",
+        "KEY BACK": "-5.8 38% 72"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+3.0 67% 72",
+          "delta": 3.0274,
+          "deltaDisplay": 3,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 72.25,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+0.6 56% 84",
+          "delta": 0.6252,
+          "deltaDisplay": 0.6,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 83.6667,
+          "averageHighestScoreDisplay": 84,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "-3.5 33% 78",
+          "delta": -3.4961,
+          "deltaDisplay": -3.5,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 78,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "+2.9 50% 87",
+          "delta": 2.8786,
+          "deltaDisplay": 2.9,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 87.25,
+          "averageHighestScoreDisplay": 87,
+          "sampleSize": 4,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "+1.0 41% 115",
+          "delta": 1.0488,
+          "deltaDisplay": 1,
+          "percentOverAverage": 41.1765,
+          "percentOverAverageDisplay": 41,
+          "averageHighestScore": 114.75,
+          "averageHighestScoreDisplay": 115,
+          "sampleSize": 17,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+6.8 67% 92",
+          "delta": 6.8289,
+          "deltaDisplay": 6.8,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 92,
+          "averageHighestScoreDisplay": 92,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "+3.0 64% 109",
+          "delta": 2.9716,
+          "deltaDisplay": 3,
+          "percentOverAverage": 64.2857,
+          "percentOverAverageDisplay": 64,
+          "averageHighestScore": 108.5,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 14,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+4.3 56% 71",
+          "delta": 4.3,
+          "deltaDisplay": 4.3,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 71,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "-5.8 38% 72",
+          "delta": -5.8183,
+          "deltaDisplay": -5.8,
+          "percentOverAverage": 37.5,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 72,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+1.4 52% 115",
+          "delta": 1.374,
+          "deltaDisplay": 1.4,
+          "percentOverAverage": 52.3045,
+          "percentOverAverageDisplay": 52,
+          "averageHighestScore": 114.75,
+          "averageHighestScoreDisplay": 115,
+          "sampleSize": 88,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    "WCE": {
+      "sourceOpponent": "WCE",
+      "display": {
+        "FULL TEAM": "-3.7 42% 113",
+        "KEY FWD": "-8.7 33% 65",
+        "SML FWD": "-0.8 60% 70",
+        "HIGH FWD": "-11.6 40% 64",
+        "RUCK": "+14.8 75% 87",
+        "INS MID": "-5.8 35% 113",
+        "OUT MID": "+3.2 62% 90",
+        "REB BACK": "-18.8 25% 77",
+        "GEN BACK": "-3.7 25% 62",
+        "KEY BACK": "-2.4 25% 68"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-8.7 33% 65",
+          "delta": -8.7432,
+          "deltaDisplay": -8.7,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 64.5,
+          "averageHighestScoreDisplay": 65,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-0.8 60% 70",
+          "delta": -0.7747,
+          "deltaDisplay": -0.8,
+          "percentOverAverage": 60,
+          "percentOverAverageDisplay": 60,
+          "averageHighestScore": 69.5,
+          "averageHighestScoreDisplay": 70,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-11.6 40% 64",
+          "delta": -11.6222,
+          "deltaDisplay": -11.6,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 63.75,
+          "averageHighestScoreDisplay": 64,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "+14.8 75% 87",
+          "delta": 14.8326,
+          "deltaDisplay": 14.8,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 87.25,
+          "averageHighestScoreDisplay": 87,
+          "sampleSize": 4,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-5.8 35% 113",
+          "delta": -5.7973,
+          "deltaDisplay": -5.8,
+          "percentOverAverage": 35,
+          "percentOverAverageDisplay": 35,
+          "averageHighestScore": 112.5,
+          "averageHighestScoreDisplay": 113,
+          "sampleSize": 20,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+3.2 62% 90",
+          "delta": 3.2428,
+          "deltaDisplay": 3.2,
+          "percentOverAverage": 61.5385,
+          "percentOverAverageDisplay": 62,
+          "averageHighestScore": 90,
+          "averageHighestScoreDisplay": 90,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-18.8 25% 77",
+          "delta": -18.7584,
+          "deltaDisplay": -18.8,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 76.75,
+          "averageHighestScoreDisplay": 77,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-3.7 25% 62",
+          "delta": -3.6916,
+          "deltaDisplay": -3.7,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 62,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "-2.4 25% 68",
+          "delta": -2.3527,
+          "deltaDisplay": -2.4,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 68,
+          "averageHighestScoreDisplay": 68,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-3.7 42% 113",
+          "delta": -3.7405,
+          "deltaDisplay": -3.7,
+          "percentOverAverage": 42.208,
+          "percentOverAverageDisplay": 42,
+          "averageHighestScore": 112.5,
+          "averageHighestScoreDisplay": 113,
+          "sampleSize": 88,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    }
+  },
+  "rows": [
+    {
+      "sourceOpponent": "ADL",
+      "opponent": "ADE",
+      "display": {
+        "FULL TEAM": "-8.3 21% 99",
+        "KEY FWD": "-12.7 11% 68",
+        "SML FWD": "+1.0 57% 62",
+        "HIGH FWD": "-13.5 0% 74",
+        "RUCK": "-15.2 0% 63",
+        "INS MID": "-11.7 18% 99",
+        "OUT MID": "-7.2 17% 77",
+        "REB BACK": "-14.9 11% 76",
+        "GEN BACK": "-4.0 17% 74",
+        "KEY BACK": "+4.1 63% 74"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-12.7 11% 68",
+          "delta": -12.7241,
+          "deltaDisplay": -12.7,
+          "percentOverAverage": 11.1111,
+          "percentOverAverageDisplay": 11,
+          "averageHighestScore": 68.3333,
+          "averageHighestScoreDisplay": 68,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "+1.0 57% 62",
+          "delta": 0.9631,
+          "deltaDisplay": 1,
+          "percentOverAverage": 57.1429,
+          "percentOverAverageDisplay": 57,
+          "averageHighestScore": 62,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "-13.5 0% 74",
+          "delta": -13.5267,
+          "deltaDisplay": -13.5,
+          "percentOverAverage": 0,
+          "percentOverAverageDisplay": 0,
+          "averageHighestScore": 74,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "-15.2 0% 63",
+          "delta": -15.2481,
+          "deltaDisplay": -15.2,
+          "percentOverAverage": 0,
+          "percentOverAverageDisplay": 0,
+          "averageHighestScore": 63.3333,
+          "averageHighestScoreDisplay": 63,
+          "sampleSize": 3,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "-11.7 18% 99",
+          "delta": -11.7198,
+          "deltaDisplay": -11.7,
+          "percentOverAverage": 18.1818,
+          "percentOverAverageDisplay": 18,
+          "averageHighestScore": 99,
+          "averageHighestScoreDisplay": 99,
+          "sampleSize": 11,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "-7.2 17% 77",
+          "delta": -7.1649,
+          "deltaDisplay": -7.2,
+          "percentOverAverage": 16.6667,
+          "percentOverAverageDisplay": 17,
+          "averageHighestScore": 77.3333,
+          "averageHighestScoreDisplay": 77,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "-14.9 11% 76",
+          "delta": -14.8794,
+          "deltaDisplay": -14.9,
+          "percentOverAverage": 11.1111,
+          "percentOverAverageDisplay": 11,
+          "averageHighestScore": 76,
+          "averageHighestScoreDisplay": 76,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "-4.0 17% 74",
+          "delta": -4.03,
+          "deltaDisplay": -4,
+          "percentOverAverage": 16.6667,
+          "percentOverAverageDisplay": 17,
+          "averageHighestScore": 73.5,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 6,
+          "roundCount": 2
+        },
+        "KEY BACK": {
+          "display": "+4.1 63% 74",
+          "delta": 4.0723,
+          "deltaDisplay": 4.1,
+          "percentOverAverage": 62.5,
+          "percentOverAverageDisplay": 63,
+          "averageHighestScore": 74,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "-8.3 21% 99",
+          "delta": -8.2508,
+          "deltaDisplay": -8.3,
+          "percentOverAverage": 21.4867,
+          "percentOverAverageDisplay": 21,
+          "averageHighestScore": 99,
+          "averageHighestScoreDisplay": 99,
+          "sampleSize": 67,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "BRL",
+      "opponent": "BL",
+      "display": {
+        "FULL TEAM": "+0.5 48% 114",
+        "KEY FWD": "+11.6 69% 86",
+        "SML FWD": "+12.6 56% 74",
+        "HIGH FWD": "-0.2 50% 95",
+        "RUCK": "-8.9 33% 70",
+        "INS MID": "+8.1 54% 114",
+        "OUT MID": "-6.3 43% 66",
+        "REB BACK": "-0.1 56% 103",
+        "GEN BACK": "-2.9 38% 79",
+        "KEY BACK": "-9.6 38% 53"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+11.6 69% 86",
+          "delta": 11.5533,
+          "deltaDisplay": 11.6,
+          "percentOverAverage": 69.2308,
+          "percentOverAverageDisplay": 69,
+          "averageHighestScore": 85.5,
+          "averageHighestScoreDisplay": 86,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+12.6 56% 74",
+          "delta": 12.6364,
+          "deltaDisplay": 12.6,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 73.75,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-0.2 50% 95",
+          "delta": -0.23,
+          "deltaDisplay": -0.2,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 95.25,
+          "averageHighestScoreDisplay": 95,
+          "sampleSize": 6,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "-8.9 33% 70",
+          "delta": -8.9011,
+          "deltaDisplay": -8.9,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 70.25,
+          "averageHighestScoreDisplay": 70,
+          "sampleSize": 6,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "+8.1 54% 114",
+          "delta": 8.0731,
+          "deltaDisplay": 8.1,
+          "percentOverAverage": 53.8462,
+          "percentOverAverageDisplay": 54,
+          "averageHighestScore": 114.25,
+          "averageHighestScoreDisplay": 114,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "-6.3 43% 66",
+          "delta": -6.3059,
+          "deltaDisplay": -6.3,
+          "percentOverAverage": 42.8571,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 66,
+          "averageHighestScoreDisplay": 66,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-0.1 56% 103",
+          "delta": -0.1079,
+          "deltaDisplay": -0.1,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 102.5,
+          "averageHighestScoreDisplay": 103,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-2.9 38% 79",
+          "delta": -2.9377,
+          "deltaDisplay": -2.9,
+          "percentOverAverage": 38.4615,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 78.5,
+          "averageHighestScoreDisplay": 79,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "-9.6 38% 53",
+          "delta": -9.6145,
+          "deltaDisplay": -9.6,
+          "percentOverAverage": 37.5,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 53,
+          "averageHighestScoreDisplay": 53,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+0.5 48% 114",
+          "delta": 0.4629,
+          "deltaDisplay": 0.5,
+          "percentOverAverage": 48.4822,
+          "percentOverAverageDisplay": 48,
+          "averageHighestScore": 114.25,
+          "averageHighestScoreDisplay": 114,
+          "sampleSize": 84,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "CAR",
+      "opponent": "CAR",
+      "display": {
+        "FULL TEAM": "-2.3 45% 121",
+        "KEY FWD": "-2.8 40% 72",
+        "SML FWD": "-2.6 44% 50",
+        "HIGH FWD": "-4.5 38% 81",
+        "RUCK": "-2.3 50% 66",
+        "INS MID": "+3.5 53% 121",
+        "OUT MID": "-6.0 45% 68",
+        "REB BACK": "-7.2 33% 82",
+        "GEN BACK": "-0.4 40% 72",
+        "KEY BACK": "+1.5 58% 74"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-2.8 40% 72",
+          "delta": -2.7691,
+          "deltaDisplay": -2.8,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 72,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-2.6 44% 50",
+          "delta": -2.5769,
+          "deltaDisplay": -2.6,
+          "percentOverAverage": 44.4444,
+          "percentOverAverageDisplay": 44,
+          "averageHighestScore": 50.25,
+          "averageHighestScoreDisplay": 50,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-4.5 38% 81",
+          "delta": -4.4687,
+          "deltaDisplay": -4.5,
+          "percentOverAverage": 37.5,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 81.25,
+          "averageHighestScoreDisplay": 81,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "-2.3 50% 66",
+          "delta": -2.2647,
+          "deltaDisplay": -2.3,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 66,
+          "averageHighestScoreDisplay": 66,
+          "sampleSize": 4,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+3.5 53% 121",
+          "delta": 3.4792,
+          "deltaDisplay": 3.5,
+          "percentOverAverage": 53.3333,
+          "percentOverAverageDisplay": 53,
+          "averageHighestScore": 121,
+          "averageHighestScoreDisplay": 121,
+          "sampleSize": 15,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "-6.0 45% 68",
+          "delta": -6.0311,
+          "deltaDisplay": -6,
+          "percentOverAverage": 45.4545,
+          "percentOverAverageDisplay": 45,
+          "averageHighestScore": 68,
+          "averageHighestScoreDisplay": 68,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-7.2 33% 82",
+          "delta": -7.1981,
+          "deltaDisplay": -7.2,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 82.25,
+          "averageHighestScoreDisplay": 82,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-0.4 40% 72",
+          "delta": -0.4328,
+          "deltaDisplay": -0.4,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 71.75,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+1.5 58% 74",
+          "delta": 1.4807,
+          "deltaDisplay": 1.5,
+          "percentOverAverage": 58.3333,
+          "percentOverAverageDisplay": 58,
+          "averageHighestScore": 73.75,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-2.3 45% 121",
+          "delta": -2.3091,
+          "deltaDisplay": -2.3,
+          "percentOverAverage": 44.711,
+          "percentOverAverageDisplay": 45,
+          "averageHighestScore": 121,
+          "averageHighestScoreDisplay": 121,
+          "sampleSize": 88,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "COL",
+      "opponent": "COL",
+      "display": {
+        "FULL TEAM": "+3.3 52% 121",
+        "KEY FWD": "-5.7 40% 60",
+        "SML FWD": "+5.0 67% 70",
+        "HIGH FWD": "-4.5 29% 74",
+        "RUCK": "+24.2 100% 121",
+        "INS MID": "-1.6 41% 102",
+        "OUT MID": "+3.6 40% 67",
+        "REB BACK": "-0.9 36% 101",
+        "GEN BACK": "+4.8 45% 92",
+        "KEY BACK": "+4.4 69% 78"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-5.7 40% 60",
+          "delta": -5.6728,
+          "deltaDisplay": -5.7,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 60.25,
+          "averageHighestScoreDisplay": 60,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+5.0 67% 70",
+          "delta": 5.0369,
+          "deltaDisplay": 5,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 69.5,
+          "averageHighestScoreDisplay": 70,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-4.5 29% 74",
+          "delta": -4.4533,
+          "deltaDisplay": -4.5,
+          "percentOverAverage": 28.5714,
+          "percentOverAverageDisplay": 29,
+          "averageHighestScore": 74.3333,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "+24.2 100% 121",
+          "delta": 24.2035,
+          "deltaDisplay": 24.2,
+          "percentOverAverage": 100,
+          "percentOverAverageDisplay": 100,
+          "averageHighestScore": 120.75,
+          "averageHighestScoreDisplay": 121,
+          "sampleSize": 4,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-1.6 41% 102",
+          "delta": -1.623,
+          "deltaDisplay": -1.6,
+          "percentOverAverage": 41.1765,
+          "percentOverAverageDisplay": 41,
+          "averageHighestScore": 102,
+          "averageHighestScoreDisplay": 102,
+          "sampleSize": 17,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+3.6 40% 67",
+          "delta": 3.6013,
+          "deltaDisplay": 3.6,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 67,
+          "averageHighestScoreDisplay": 67,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-0.9 36% 101",
+          "delta": -0.8793,
+          "deltaDisplay": -0.9,
+          "percentOverAverage": 36.3636,
+          "percentOverAverageDisplay": 36,
+          "averageHighestScore": 101.25,
+          "averageHighestScoreDisplay": 101,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+4.8 45% 92",
+          "delta": 4.8375,
+          "deltaDisplay": 4.8,
+          "percentOverAverage": 45.4545,
+          "percentOverAverageDisplay": 45,
+          "averageHighestScore": 91.75,
+          "averageHighestScoreDisplay": 92,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+4.4 69% 78",
+          "delta": 4.3877,
+          "deltaDisplay": 4.4,
+          "percentOverAverage": 69.2308,
+          "percentOverAverageDisplay": 69,
+          "averageHighestScore": 77.75,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+3.3 52% 121",
+          "delta": 3.2709,
+          "deltaDisplay": 3.3,
+          "percentOverAverage": 51.9404,
+          "percentOverAverageDisplay": 52,
+          "averageHighestScore": 120.75,
+          "averageHighestScoreDisplay": 121,
+          "sampleSize": 87,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "ESS",
+      "opponent": "ESS",
+      "display": {
+        "FULL TEAM": "+1.6 54% 109",
+        "KEY FWD": "+4.6 67% 82",
+        "SML FWD": "+3.2 50% 71",
+        "HIGH FWD": "-2.3 50% 78",
+        "RUCK": "-11.9 20% 62",
+        "INS MID": "+2.8 47% 109",
+        "OUT MID": "+11.3 80% 89",
+        "REB BACK": "-4.7 27% 95",
+        "GEN BACK": "+3.4 67% 76",
+        "KEY BACK": "+7.8 78% 73"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+4.6 67% 82",
+          "delta": 4.5615,
+          "deltaDisplay": 4.6,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 82,
+          "averageHighestScoreDisplay": 82,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+3.2 50% 71",
+          "delta": 3.1534,
+          "deltaDisplay": 3.2,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 71.25,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-2.3 50% 78",
+          "delta": -2.3461,
+          "deltaDisplay": -2.3,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 78,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 2,
+          "roundCount": 2
+        },
+        "RUCK": {
+          "display": "-11.9 20% 62",
+          "delta": -11.8869,
+          "deltaDisplay": -11.9,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 61.5,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "+2.8 47% 109",
+          "delta": 2.7985,
+          "deltaDisplay": 2.8,
+          "percentOverAverage": 46.6667,
+          "percentOverAverageDisplay": 47,
+          "averageHighestScore": 108.75,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 15,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+11.3 80% 89",
+          "delta": 11.3272,
+          "deltaDisplay": 11.3,
+          "percentOverAverage": 80,
+          "percentOverAverageDisplay": 80,
+          "averageHighestScore": 88.75,
+          "averageHighestScoreDisplay": 89,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-4.7 27% 95",
+          "delta": -4.6635,
+          "deltaDisplay": -4.7,
+          "percentOverAverage": 27.2727,
+          "percentOverAverageDisplay": 27,
+          "averageHighestScore": 95.25,
+          "averageHighestScoreDisplay": 95,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+3.4 67% 76",
+          "delta": 3.4197,
+          "deltaDisplay": 3.4,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 76,
+          "averageHighestScoreDisplay": 76,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+7.8 78% 73",
+          "delta": 7.8454,
+          "deltaDisplay": 7.8,
+          "percentOverAverage": 77.7778,
+          "percentOverAverageDisplay": 78,
+          "averageHighestScore": 73,
+          "averageHighestScoreDisplay": 73,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+1.6 54% 109",
+          "delta": 1.5788,
+          "deltaDisplay": 1.6,
+          "percentOverAverage": 53.8945,
+          "percentOverAverageDisplay": 54,
+          "averageHighestScore": 108.75,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 85,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "FRE",
+      "opponent": "FRE",
+      "display": {
+        "FULL TEAM": "-7.8 27% 105",
+        "KEY FWD": "-5.8 25% 71",
+        "SML FWD": "-7.9 22% 54",
+        "HIGH FWD": "-6.1 43% 75",
+        "RUCK": "-12.8 20% 61",
+        "INS MID": "-8.4 26% 100",
+        "OUT MID": "-12.0 20% 72",
+        "REB BACK": "+2.1 44% 105",
+        "GEN BACK": "-9.3 25% 45",
+        "KEY BACK": "-10.0 18% 60"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-5.8 25% 71",
+          "delta": -5.792,
+          "deltaDisplay": -5.8,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 70.75,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-7.9 22% 54",
+          "delta": -7.9495,
+          "deltaDisplay": -7.9,
+          "percentOverAverage": 22.2222,
+          "percentOverAverageDisplay": 22,
+          "averageHighestScore": 54,
+          "averageHighestScoreDisplay": 54,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-6.1 43% 75",
+          "delta": -6.0574,
+          "deltaDisplay": -6.1,
+          "percentOverAverage": 42.8571,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 74.5,
+          "averageHighestScoreDisplay": 75,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "-12.8 20% 61",
+          "delta": -12.758,
+          "deltaDisplay": -12.8,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 60.75,
+          "averageHighestScoreDisplay": 61,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-8.4 26% 100",
+          "delta": -8.3811,
+          "deltaDisplay": -8.4,
+          "percentOverAverage": 26.3158,
+          "percentOverAverageDisplay": 26,
+          "averageHighestScore": 99.75,
+          "averageHighestScoreDisplay": 100,
+          "sampleSize": 19,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "-12.0 20% 72",
+          "delta": -12.029,
+          "deltaDisplay": -12,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 71.5,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "+2.1 44% 105",
+          "delta": 2.1223,
+          "deltaDisplay": 2.1,
+          "percentOverAverage": 44.4444,
+          "percentOverAverageDisplay": 44,
+          "averageHighestScore": 105,
+          "averageHighestScoreDisplay": 105,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-9.3 25% 45",
+          "delta": -9.3323,
+          "deltaDisplay": -9.3,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 44.5,
+          "averageHighestScoreDisplay": 45,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "-10.0 18% 60",
+          "delta": -9.9882,
+          "deltaDisplay": -10,
+          "percentOverAverage": 18.1818,
+          "percentOverAverageDisplay": 18,
+          "averageHighestScore": 60.25,
+          "averageHighestScoreDisplay": 60,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-7.8 27% 105",
+          "delta": -7.7961,
+          "deltaDisplay": -7.8,
+          "percentOverAverage": 27.1135,
+          "percentOverAverageDisplay": 27,
+          "averageHighestScore": 105,
+          "averageHighestScoreDisplay": 105,
+          "sampleSize": 90,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "GCS",
+      "opponent": "GC",
+      "display": {
+        "FULL TEAM": "-2.7 32% 123",
+        "KEY FWD": "+3.6 43% 81",
+        "SML FWD": "+6.1 50% 83",
+        "HIGH FWD": "-8.2 17% 73",
+        "RUCK": "-9.6 40% 75",
+        "INS MID": "+5.6 58% 123",
+        "OUT MID": "+1.2 50% 87",
+        "REB BACK": "-7.5 33% 90",
+        "GEN BACK": "-3.1 0% 38",
+        "KEY BACK": "-12.7 0% 47"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+3.6 43% 81",
+          "delta": 3.5649,
+          "deltaDisplay": 3.6,
+          "percentOverAverage": 42.8571,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 81.3333,
+          "averageHighestScoreDisplay": 81,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "+6.1 50% 83",
+          "delta": 6.1234,
+          "deltaDisplay": 6.1,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 83.3333,
+          "averageHighestScoreDisplay": 83,
+          "sampleSize": 12,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "-8.2 17% 73",
+          "delta": -8.2382,
+          "deltaDisplay": -8.2,
+          "percentOverAverage": 16.6667,
+          "percentOverAverageDisplay": 17,
+          "averageHighestScore": 73,
+          "averageHighestScoreDisplay": 73,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "-9.6 40% 75",
+          "delta": -9.594,
+          "deltaDisplay": -9.6,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 75,
+          "averageHighestScoreDisplay": 75,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+5.6 58% 123",
+          "delta": 5.5571,
+          "deltaDisplay": 5.6,
+          "percentOverAverage": 58.3333,
+          "percentOverAverageDisplay": 58,
+          "averageHighestScore": 123.3333,
+          "averageHighestScoreDisplay": 123,
+          "sampleSize": 12,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "+1.2 50% 87",
+          "delta": 1.1998,
+          "deltaDisplay": 1.2,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 87.3333,
+          "averageHighestScoreDisplay": 87,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "-7.5 33% 90",
+          "delta": -7.5191,
+          "deltaDisplay": -7.5,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 90,
+          "averageHighestScoreDisplay": 90,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "-3.1 0% 38",
+          "delta": -3.0667,
+          "deltaDisplay": -3.1,
+          "percentOverAverage": 0,
+          "percentOverAverageDisplay": 0,
+          "averageHighestScore": 38,
+          "averageHighestScoreDisplay": 38,
+          "sampleSize": 3,
+          "roundCount": 2
+        },
+        "KEY BACK": {
+          "display": "-12.7 0% 47",
+          "delta": -12.7192,
+          "deltaDisplay": -12.7,
+          "percentOverAverage": 0,
+          "percentOverAverageDisplay": 0,
+          "averageHighestScore": 46.6667,
+          "averageHighestScoreDisplay": 47,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "-2.7 32% 123",
+          "delta": -2.7436,
+          "deltaDisplay": -2.7,
+          "percentOverAverage": 32.3545,
+          "percentOverAverageDisplay": 32,
+          "averageHighestScore": 123.3333,
+          "averageHighestScoreDisplay": 123,
+          "sampleSize": 67,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "GEE",
+      "opponent": "GEE",
+      "display": {
+        "FULL TEAM": "-0.5 47% 106",
+        "KEY FWD": "-2.7 44% 67",
+        "SML FWD": "-2.8 46% 75",
+        "HIGH FWD": "+4.3 56% 93",
+        "RUCK": "+7.0 60% 88",
+        "INS MID": "-3.2 41% 106",
+        "OUT MID": "-5.4 29% 76",
+        "REB BACK": "-3.7 36% 102",
+        "GEN BACK": "-1.7 57% 71",
+        "KEY BACK": "+4.1 50% 72"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-2.7 44% 67",
+          "delta": -2.7475,
+          "deltaDisplay": -2.7,
+          "percentOverAverage": 44.4444,
+          "percentOverAverageDisplay": 44,
+          "averageHighestScore": 66.5,
+          "averageHighestScoreDisplay": 67,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-2.8 46% 75",
+          "delta": -2.7818,
+          "deltaDisplay": -2.8,
+          "percentOverAverage": 46.1538,
+          "percentOverAverageDisplay": 46,
+          "averageHighestScore": 74.75,
+          "averageHighestScoreDisplay": 75,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "+4.3 56% 93",
+          "delta": 4.3152,
+          "deltaDisplay": 4.3,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 92.5,
+          "averageHighestScoreDisplay": 93,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "+7.0 60% 88",
+          "delta": 7.0167,
+          "deltaDisplay": 7,
+          "percentOverAverage": 60,
+          "percentOverAverageDisplay": 60,
+          "averageHighestScore": 87.75,
+          "averageHighestScoreDisplay": 88,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-3.2 41% 106",
+          "delta": -3.1789,
+          "deltaDisplay": -3.2,
+          "percentOverAverage": 41.1765,
+          "percentOverAverageDisplay": 41,
+          "averageHighestScore": 105.75,
+          "averageHighestScoreDisplay": 106,
+          "sampleSize": 17,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "-5.4 29% 76",
+          "delta": -5.4454,
+          "deltaDisplay": -5.4,
+          "percentOverAverage": 28.5714,
+          "percentOverAverageDisplay": 29,
+          "averageHighestScore": 76.25,
+          "averageHighestScoreDisplay": 76,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-3.7 36% 102",
+          "delta": -3.6945,
+          "deltaDisplay": -3.7,
+          "percentOverAverage": 36.3636,
+          "percentOverAverageDisplay": 36,
+          "averageHighestScore": 102,
+          "averageHighestScoreDisplay": 102,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-1.7 57% 71",
+          "delta": -1.7327,
+          "deltaDisplay": -1.7,
+          "percentOverAverage": 57.1429,
+          "percentOverAverageDisplay": 57,
+          "averageHighestScore": 70.5,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+4.1 50% 72",
+          "delta": 4.1208,
+          "deltaDisplay": 4.1,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 72.25,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-0.5 47% 106",
+          "delta": -0.4587,
+          "deltaDisplay": -0.5,
+          "percentOverAverage": 46.6009,
+          "percentOverAverageDisplay": 47,
+          "averageHighestScore": 105.75,
+          "averageHighestScoreDisplay": 106,
+          "sampleSize": 88,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "GWS",
+      "opponent": "GWS",
+      "display": {
+        "FULL TEAM": "+1.1 42% 111",
+        "KEY FWD": "-6.9 33% 57",
+        "SML FWD": "+2.9 42% 68",
+        "HIGH FWD": "+3.4 25% 79",
+        "RUCK": "+17.3 75% 111",
+        "INS MID": "-2.7 25% 109",
+        "OUT MID": "-2.2 40% 67",
+        "REB BACK": "+0.0 56% 88",
+        "GEN BACK": "-9.5 20% 72",
+        "KEY BACK": "+7.5 67% 62"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-6.9 33% 57",
+          "delta": -6.8712,
+          "deltaDisplay": -6.9,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 56.6667,
+          "averageHighestScoreDisplay": 57,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "+2.9 42% 68",
+          "delta": 2.928,
+          "deltaDisplay": 2.9,
+          "percentOverAverage": 41.6667,
+          "percentOverAverageDisplay": 42,
+          "averageHighestScore": 68,
+          "averageHighestScoreDisplay": 68,
+          "sampleSize": 12,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "+3.4 25% 79",
+          "delta": 3.4391,
+          "deltaDisplay": 3.4,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 78.5,
+          "averageHighestScoreDisplay": 79,
+          "sampleSize": 4,
+          "roundCount": 2
+        },
+        "RUCK": {
+          "display": "+17.3 75% 111",
+          "delta": 17.3077,
+          "deltaDisplay": 17.3,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 110.6667,
+          "averageHighestScoreDisplay": 111,
+          "sampleSize": 4,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "-2.7 25% 109",
+          "delta": -2.7198,
+          "deltaDisplay": -2.7,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 108.6667,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 12,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "-2.2 40% 67",
+          "delta": -2.1923,
+          "deltaDisplay": -2.2,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 67,
+          "averageHighestScoreDisplay": 67,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "+0.0 56% 88",
+          "delta": 0.042,
+          "deltaDisplay": 0,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 88.3333,
+          "averageHighestScoreDisplay": 88,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "-9.5 20% 72",
+          "delta": -9.5327,
+          "deltaDisplay": -9.5,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 71.5,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 5,
+          "roundCount": 2
+        },
+        "KEY BACK": {
+          "display": "+7.5 67% 62",
+          "delta": 7.4788,
+          "deltaDisplay": 7.5,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 62.3333,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "+1.1 42% 111",
+          "delta": 1.0977,
+          "deltaDisplay": 1.1,
+          "percentOverAverage": 42.4691,
+          "percentOverAverageDisplay": 42,
+          "averageHighestScore": 110.6667,
+          "averageHighestScoreDisplay": 111,
+          "sampleSize": 66,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "HAW",
+      "opponent": "HAW",
+      "display": {
+        "FULL TEAM": "-1.0 51% 108",
+        "KEY FWD": "-0.9 40% 69",
+        "SML FWD": "-2.4 40% 62",
+        "HIGH FWD": "-4.6 33% 78",
+        "RUCK": "-19.4 20% 78",
+        "INS MID": "-2.6 38% 105",
+        "OUT MID": "+6.0 67% 78",
+        "REB BACK": "+11.3 86% 108",
+        "GEN BACK": "-4.7 63% 65",
+        "KEY BACK": "+8.0 73% 89"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-0.9 40% 69",
+          "delta": -0.8561,
+          "deltaDisplay": -0.9,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 68.5,
+          "averageHighestScoreDisplay": 69,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-2.4 40% 62",
+          "delta": -2.4157,
+          "deltaDisplay": -2.4,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 61.5,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-4.6 33% 78",
+          "delta": -4.553,
+          "deltaDisplay": -4.6,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 77.5,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "-19.4 20% 78",
+          "delta": -19.3885,
+          "deltaDisplay": -19.4,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 77.5,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-2.6 38% 105",
+          "delta": -2.6024,
+          "deltaDisplay": -2.6,
+          "percentOverAverage": 37.5,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 105,
+          "averageHighestScoreDisplay": 105,
+          "sampleSize": 16,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+6.0 67% 78",
+          "delta": 5.9752,
+          "deltaDisplay": 6,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 78.25,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "+11.3 86% 108",
+          "delta": 11.3051,
+          "deltaDisplay": 11.3,
+          "percentOverAverage": 85.7143,
+          "percentOverAverageDisplay": 86,
+          "averageHighestScore": 108,
+          "averageHighestScoreDisplay": 108,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-4.7 63% 65",
+          "delta": -4.684,
+          "deltaDisplay": -4.7,
+          "percentOverAverage": 62.5,
+          "percentOverAverageDisplay": 63,
+          "averageHighestScore": 65,
+          "averageHighestScoreDisplay": 65,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+8.0 73% 89",
+          "delta": 7.9591,
+          "deltaDisplay": 8,
+          "percentOverAverage": 72.7273,
+          "percentOverAverageDisplay": 73,
+          "averageHighestScore": 88.75,
+          "averageHighestScoreDisplay": 89,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-1.0 51% 108",
+          "delta": -1.0289,
+          "deltaDisplay": -1,
+          "percentOverAverage": 50.938,
+          "percentOverAverageDisplay": 51,
+          "averageHighestScore": 108,
+          "averageHighestScoreDisplay": 108,
+          "sampleSize": 85,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "MEL",
+      "opponent": "MEL",
+      "display": {
+        "FULL TEAM": "+2.2 53% 111",
+        "KEY FWD": "+5.6 55% 75",
+        "SML FWD": "-1.3 43% 58",
+        "HIGH FWD": "+1.9 40% 95",
+        "RUCK": "-6.9 33% 63",
+        "INS MID": "+3.4 63% 111",
+        "OUT MID": "+3.0 57% 78",
+        "REB BACK": "+5.2 78% 111",
+        "GEN BACK": "+4.8 50% 92",
+        "KEY BACK": "+3.8 60% 82"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+5.6 55% 75",
+          "delta": 5.6241,
+          "deltaDisplay": 5.6,
+          "percentOverAverage": 54.5455,
+          "percentOverAverageDisplay": 55,
+          "averageHighestScore": 75.25,
+          "averageHighestScoreDisplay": 75,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-1.3 43% 58",
+          "delta": -1.3027,
+          "deltaDisplay": -1.3,
+          "percentOverAverage": 42.8571,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 58.25,
+          "averageHighestScoreDisplay": 58,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "+1.9 40% 95",
+          "delta": 1.8791,
+          "deltaDisplay": 1.9,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 95,
+          "averageHighestScoreDisplay": 95,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "-6.9 33% 63",
+          "delta": -6.9028,
+          "deltaDisplay": -6.9,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 63.3333,
+          "averageHighestScoreDisplay": 63,
+          "sampleSize": 3,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+3.4 63% 111",
+          "delta": 3.4455,
+          "deltaDisplay": 3.4,
+          "percentOverAverage": 62.5,
+          "percentOverAverageDisplay": 63,
+          "averageHighestScore": 110.75,
+          "averageHighestScoreDisplay": 111,
+          "sampleSize": 16,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+3.0 57% 78",
+          "delta": 2.9581,
+          "deltaDisplay": 3,
+          "percentOverAverage": 57.1429,
+          "percentOverAverageDisplay": 57,
+          "averageHighestScore": 78,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "+5.2 78% 111",
+          "delta": 5.1502,
+          "deltaDisplay": 5.2,
+          "percentOverAverage": 77.7778,
+          "percentOverAverageDisplay": 78,
+          "averageHighestScore": 111.25,
+          "averageHighestScoreDisplay": 111,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+4.8 50% 92",
+          "delta": 4.7794,
+          "deltaDisplay": 4.8,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 92.25,
+          "averageHighestScoreDisplay": 92,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+3.8 60% 82",
+          "delta": 3.7833,
+          "deltaDisplay": 3.8,
+          "percentOverAverage": 60,
+          "percentOverAverageDisplay": 60,
+          "averageHighestScore": 81.75,
+          "averageHighestScoreDisplay": 82,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+2.2 53% 111",
+          "delta": 2.1571,
+          "deltaDisplay": 2.2,
+          "percentOverAverage": 53.1285,
+          "percentOverAverageDisplay": 53,
+          "averageHighestScore": 111.25,
+          "averageHighestScoreDisplay": 111,
+          "sampleSize": 85,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "NTH",
+      "opponent": "NM",
+      "display": {
+        "FULL TEAM": "+1.1 54% 109",
+        "KEY FWD": "+7.6 83% 80",
+        "SML FWD": "+3.7 75% 66",
+        "HIGH FWD": "+4.9 67% 88",
+        "RUCK": "-2.2 17% 86",
+        "INS MID": "+8.0 62% 109",
+        "OUT MID": "+5.7 75% 81",
+        "REB BACK": "-7.9 29% 78",
+        "GEN BACK": "-8.0 43% 71",
+        "KEY BACK": "-1.8 38% 74"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+7.6 83% 80",
+          "delta": 7.5537,
+          "deltaDisplay": 7.6,
+          "percentOverAverage": 83.3333,
+          "percentOverAverageDisplay": 83,
+          "averageHighestScore": 80,
+          "averageHighestScoreDisplay": 80,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "+3.7 75% 66",
+          "delta": 3.6836,
+          "deltaDisplay": 3.7,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 66.3333,
+          "averageHighestScoreDisplay": 66,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "+4.9 67% 88",
+          "delta": 4.8885,
+          "deltaDisplay": 4.9,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 88,
+          "averageHighestScoreDisplay": 88,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "-2.2 17% 86",
+          "delta": -2.165,
+          "deltaDisplay": -2.2,
+          "percentOverAverage": 16.6667,
+          "percentOverAverageDisplay": 17,
+          "averageHighestScore": 86,
+          "averageHighestScoreDisplay": 86,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+8.0 62% 109",
+          "delta": 7.9708,
+          "deltaDisplay": 8,
+          "percentOverAverage": 61.5385,
+          "percentOverAverageDisplay": 62,
+          "averageHighestScore": 109.3333,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 13,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "+5.7 75% 81",
+          "delta": 5.7379,
+          "deltaDisplay": 5.7,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 80.6667,
+          "averageHighestScoreDisplay": 81,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "-7.9 29% 78",
+          "delta": -7.8627,
+          "deltaDisplay": -7.9,
+          "percentOverAverage": 28.5714,
+          "percentOverAverageDisplay": 29,
+          "averageHighestScore": 78.3333,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "-8.0 43% 71",
+          "delta": -7.9705,
+          "deltaDisplay": -8,
+          "percentOverAverage": 42.8571,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 71,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "KEY BACK": {
+          "display": "-1.8 38% 74",
+          "delta": -1.7716,
+          "deltaDisplay": -1.8,
+          "percentOverAverage": 37.5,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 74,
+          "averageHighestScoreDisplay": 74,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "+1.1 54% 109",
+          "delta": 1.1183,
+          "deltaDisplay": 1.1,
+          "percentOverAverage": 54.126,
+          "percentOverAverageDisplay": 54,
+          "averageHighestScore": 109.3333,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 69,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "PTA",
+      "opponent": "PA",
+      "display": {
+        "FULL TEAM": "+3.9 64% 117",
+        "KEY FWD": "+9.8 86% 90",
+        "SML FWD": "-0.0 50% 62",
+        "HIGH FWD": "-8.0 0% 76",
+        "RUCK": "+3.8 100% 79",
+        "INS MID": "+3.6 64% 107",
+        "OUT MID": "+5.4 80% 65",
+        "REB BACK": "+8.8 67% 117",
+        "GEN BACK": "+4.3 56% 89",
+        "KEY BACK": "+7.2 75% 68"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+9.8 86% 90",
+          "delta": 9.8215,
+          "deltaDisplay": 9.8,
+          "percentOverAverage": 85.7143,
+          "percentOverAverageDisplay": 86,
+          "averageHighestScore": 90.3333,
+          "averageHighestScoreDisplay": 90,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "-0.0 50% 62",
+          "delta": -0.0014,
+          "deltaDisplay": 0,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 61.6667,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "-8.0 0% 76",
+          "delta": -7.9936,
+          "deltaDisplay": -8,
+          "percentOverAverage": 0,
+          "percentOverAverageDisplay": 0,
+          "averageHighestScore": 75.5,
+          "averageHighestScoreDisplay": 76,
+          "sampleSize": 3,
+          "roundCount": 2
+        },
+        "RUCK": {
+          "display": "+3.8 100% 79",
+          "delta": 3.7986,
+          "deltaDisplay": 3.8,
+          "percentOverAverage": 100,
+          "percentOverAverageDisplay": 100,
+          "averageHighestScore": 79.3333,
+          "averageHighestScoreDisplay": 79,
+          "sampleSize": 4,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+3.6 64% 107",
+          "delta": 3.563,
+          "deltaDisplay": 3.6,
+          "percentOverAverage": 63.6364,
+          "percentOverAverageDisplay": 64,
+          "averageHighestScore": 106.6667,
+          "averageHighestScoreDisplay": 107,
+          "sampleSize": 11,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "+5.4 80% 65",
+          "delta": 5.4078,
+          "deltaDisplay": 5.4,
+          "percentOverAverage": 80,
+          "percentOverAverageDisplay": 80,
+          "averageHighestScore": 64.6667,
+          "averageHighestScoreDisplay": 65,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "+8.8 67% 117",
+          "delta": 8.8059,
+          "deltaDisplay": 8.8,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 116.6667,
+          "averageHighestScoreDisplay": 117,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "+4.3 56% 89",
+          "delta": 4.3375,
+          "deltaDisplay": 4.3,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 89.3333,
+          "averageHighestScoreDisplay": 89,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "KEY BACK": {
+          "display": "+7.2 75% 68",
+          "delta": 7.2458,
+          "deltaDisplay": 7.2,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 68.3333,
+          "averageHighestScoreDisplay": 68,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "+3.9 64% 117",
+          "delta": 3.8872,
+          "deltaDisplay": 3.9,
+          "percentOverAverage": 64.0637,
+          "percentOverAverageDisplay": 64,
+          "averageHighestScore": 116.6667,
+          "averageHighestScoreDisplay": 117,
+          "sampleSize": 64,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "RIC",
+      "opponent": "RIC",
+      "display": {
+        "FULL TEAM": "+6.3 68% 145",
+        "KEY FWD": "+18.1 80% 107",
+        "SML FWD": "-7.7 33% 50",
+        "HIGH FWD": "+11.9 83% 93",
+        "RUCK": "+7.3 75% 81",
+        "INS MID": "+11.5 71% 145",
+        "OUT MID": "-10.5 20% 72",
+        "REB BACK": "+3.4 75% 96",
+        "GEN BACK": "+13.2 88% 95",
+        "KEY BACK": "+9.0 89% 101"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+18.1 80% 107",
+          "delta": 18.091,
+          "deltaDisplay": 18.1,
+          "percentOverAverage": 80,
+          "percentOverAverageDisplay": 80,
+          "averageHighestScore": 107,
+          "averageHighestScoreDisplay": 107,
+          "sampleSize": 10,
+          "roundCount": 3
+        },
+        "SML FWD": {
+          "display": "-7.7 33% 50",
+          "delta": -7.7146,
+          "deltaDisplay": -7.7,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 50.3333,
+          "averageHighestScoreDisplay": 50,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "+11.9 83% 93",
+          "delta": 11.9095,
+          "deltaDisplay": 11.9,
+          "percentOverAverage": 83.3333,
+          "percentOverAverageDisplay": 83,
+          "averageHighestScore": 93.3333,
+          "averageHighestScoreDisplay": 93,
+          "sampleSize": 6,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "+7.3 75% 81",
+          "delta": 7.3346,
+          "deltaDisplay": 7.3,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 81.3333,
+          "averageHighestScoreDisplay": 81,
+          "sampleSize": 4,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "+11.5 71% 145",
+          "delta": 11.4927,
+          "deltaDisplay": 11.5,
+          "percentOverAverage": 71.4286,
+          "percentOverAverageDisplay": 71,
+          "averageHighestScore": 145.3333,
+          "averageHighestScoreDisplay": 145,
+          "sampleSize": 14,
+          "roundCount": 3
+        },
+        "OUT MID": {
+          "display": "-10.5 20% 72",
+          "delta": -10.4577,
+          "deltaDisplay": -10.5,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 71.6667,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "REB BACK": {
+          "display": "+3.4 75% 96",
+          "delta": 3.437,
+          "deltaDisplay": 3.4,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 95.6667,
+          "averageHighestScoreDisplay": 96,
+          "sampleSize": 4,
+          "roundCount": 3
+        },
+        "GEN BACK": {
+          "display": "+13.2 88% 95",
+          "delta": 13.2291,
+          "deltaDisplay": 13.2,
+          "percentOverAverage": 87.5,
+          "percentOverAverageDisplay": 88,
+          "averageHighestScore": 94.6667,
+          "averageHighestScoreDisplay": 95,
+          "sampleSize": 8,
+          "roundCount": 3
+        },
+        "KEY BACK": {
+          "display": "+9.0 89% 101",
+          "delta": 8.9572,
+          "deltaDisplay": 9,
+          "percentOverAverage": 88.8889,
+          "percentOverAverageDisplay": 89,
+          "averageHighestScore": 101,
+          "averageHighestScoreDisplay": 101,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "FULL TEAM": {
+          "display": "+6.3 68% 145",
+          "delta": 6.2532,
+          "deltaDisplay": 6.3,
+          "percentOverAverage": 68.276,
+          "percentOverAverageDisplay": 68,
+          "averageHighestScore": 145.3333,
+          "averageHighestScoreDisplay": 145,
+          "sampleSize": 66,
+          "roundCount": 3,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "STK",
+      "opponent": "STK",
+      "display": {
+        "FULL TEAM": "+3.2 55% 102",
+        "KEY FWD": "+6.5 58% 89",
+        "SML FWD": "+0.3 57% 64",
+        "HIGH FWD": "+13.1 89% 102",
+        "RUCK": "-10.8 17% 70",
+        "INS MID": "-2.5 47% 99",
+        "OUT MID": "+11.3 71% 99",
+        "REB BACK": "+0.0 42% 97",
+        "GEN BACK": "+6.0 67% 78",
+        "KEY BACK": "+4.7 50% 84"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+6.5 58% 89",
+          "delta": 6.5088,
+          "deltaDisplay": 6.5,
+          "percentOverAverage": 58.3333,
+          "percentOverAverageDisplay": 58,
+          "averageHighestScore": 89,
+          "averageHighestScoreDisplay": 89,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+0.3 57% 64",
+          "delta": 0.2911,
+          "deltaDisplay": 0.3,
+          "percentOverAverage": 57.1429,
+          "percentOverAverageDisplay": 57,
+          "averageHighestScore": 64.3333,
+          "averageHighestScoreDisplay": 64,
+          "sampleSize": 7,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "+13.1 89% 102",
+          "delta": 13.1026,
+          "deltaDisplay": 13.1,
+          "percentOverAverage": 88.8889,
+          "percentOverAverageDisplay": 89,
+          "averageHighestScore": 101.6667,
+          "averageHighestScoreDisplay": 102,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "-10.8 17% 70",
+          "delta": -10.8294,
+          "deltaDisplay": -10.8,
+          "percentOverAverage": 16.6667,
+          "percentOverAverageDisplay": 17,
+          "averageHighestScore": 69.75,
+          "averageHighestScoreDisplay": 70,
+          "sampleSize": 6,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-2.5 47% 99",
+          "delta": -2.458,
+          "deltaDisplay": -2.5,
+          "percentOverAverage": 46.6667,
+          "percentOverAverageDisplay": 47,
+          "averageHighestScore": 99.25,
+          "averageHighestScoreDisplay": 99,
+          "sampleSize": 15,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+11.3 71% 99",
+          "delta": 11.2793,
+          "deltaDisplay": 11.3,
+          "percentOverAverage": 71.4286,
+          "percentOverAverageDisplay": 71,
+          "averageHighestScore": 99.25,
+          "averageHighestScoreDisplay": 99,
+          "sampleSize": 7,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "+0.0 42% 97",
+          "delta": 0.0354,
+          "deltaDisplay": 0,
+          "percentOverAverage": 41.6667,
+          "percentOverAverageDisplay": 42,
+          "averageHighestScore": 96.5,
+          "averageHighestScoreDisplay": 97,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+6.0 67% 78",
+          "delta": 6.0397,
+          "deltaDisplay": 6,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 77.75,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "+4.7 50% 84",
+          "delta": 4.7364,
+          "deltaDisplay": 4.7,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 84.25,
+          "averageHighestScoreDisplay": 84,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+3.2 55% 102",
+          "delta": 3.1895,
+          "deltaDisplay": 3.2,
+          "percentOverAverage": 55.2734,
+          "percentOverAverageDisplay": 55,
+          "averageHighestScore": 101.6667,
+          "averageHighestScoreDisplay": 102,
+          "sampleSize": 85,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "SYD",
+      "opponent": "SYD",
+      "display": {
+        "FULL TEAM": "-2.8 43% 101",
+        "KEY FWD": "+3.7 67% 87",
+        "SML FWD": "+1.5 63% 66",
+        "HIGH FWD": "-13.8 40% 58",
+        "RUCK": "-6.6 20% 56",
+        "INS MID": "-2.2 39% 101",
+        "OUT MID": "-2.7 50% 82",
+        "REB BACK": "-4.5 22% 98",
+        "GEN BACK": "+4.3 50% 71",
+        "KEY BACK": "-4.5 36% 77"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+3.7 67% 87",
+          "delta": 3.7061,
+          "deltaDisplay": 3.7,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 87,
+          "averageHighestScoreDisplay": 87,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+1.5 63% 66",
+          "delta": 1.5332,
+          "deltaDisplay": 1.5,
+          "percentOverAverage": 62.5,
+          "percentOverAverageDisplay": 63,
+          "averageHighestScore": 65.5,
+          "averageHighestScoreDisplay": 66,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-13.8 40% 58",
+          "delta": -13.8254,
+          "deltaDisplay": -13.8,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 58.3333,
+          "averageHighestScoreDisplay": 58,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "RUCK": {
+          "display": "-6.6 20% 56",
+          "delta": -6.5624,
+          "deltaDisplay": -6.6,
+          "percentOverAverage": 20,
+          "percentOverAverageDisplay": 20,
+          "averageHighestScore": 56,
+          "averageHighestScoreDisplay": 56,
+          "sampleSize": 5,
+          "roundCount": 3
+        },
+        "INS MID": {
+          "display": "-2.2 39% 101",
+          "delta": -2.2447,
+          "deltaDisplay": -2.2,
+          "percentOverAverage": 38.8889,
+          "percentOverAverageDisplay": 39,
+          "averageHighestScore": 100.75,
+          "averageHighestScoreDisplay": 101,
+          "sampleSize": 18,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "-2.7 50% 82",
+          "delta": -2.7074,
+          "deltaDisplay": -2.7,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 82,
+          "averageHighestScoreDisplay": 82,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-4.5 22% 98",
+          "delta": -4.5264,
+          "deltaDisplay": -4.5,
+          "percentOverAverage": 22.2222,
+          "percentOverAverageDisplay": 22,
+          "averageHighestScore": 98,
+          "averageHighestScoreDisplay": 98,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+4.3 50% 71",
+          "delta": 4.3293,
+          "deltaDisplay": 4.3,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 70.5,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "-4.5 36% 77",
+          "delta": -4.5232,
+          "deltaDisplay": -4.5,
+          "percentOverAverage": 36.3636,
+          "percentOverAverageDisplay": 36,
+          "averageHighestScore": 76.75,
+          "averageHighestScoreDisplay": 77,
+          "sampleSize": 11,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-2.8 43% 101",
+          "delta": -2.7579,
+          "deltaDisplay": -2.8,
+          "percentOverAverage": 42.9602,
+          "percentOverAverageDisplay": 43,
+          "averageHighestScore": 100.75,
+          "averageHighestScoreDisplay": 101,
+          "sampleSize": 88,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "WBD",
+      "opponent": "WB",
+      "display": {
+        "FULL TEAM": "+1.4 52% 115",
+        "KEY FWD": "+3.0 67% 72",
+        "SML FWD": "+0.6 56% 84",
+        "HIGH FWD": "-3.5 33% 78",
+        "RUCK": "+2.9 50% 87",
+        "INS MID": "+1.0 41% 115",
+        "OUT MID": "+6.8 67% 92",
+        "REB BACK": "+3.0 64% 109",
+        "GEN BACK": "+4.3 56% 71",
+        "KEY BACK": "-5.8 38% 72"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "+3.0 67% 72",
+          "delta": 3.0274,
+          "deltaDisplay": 3,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 72.25,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "+0.6 56% 84",
+          "delta": 0.6252,
+          "deltaDisplay": 0.6,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 83.6667,
+          "averageHighestScoreDisplay": 84,
+          "sampleSize": 9,
+          "roundCount": 3
+        },
+        "HIGH FWD": {
+          "display": "-3.5 33% 78",
+          "delta": -3.4961,
+          "deltaDisplay": -3.5,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 78,
+          "averageHighestScoreDisplay": 78,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "+2.9 50% 87",
+          "delta": 2.8786,
+          "deltaDisplay": 2.9,
+          "percentOverAverage": 50,
+          "percentOverAverageDisplay": 50,
+          "averageHighestScore": 87.25,
+          "averageHighestScoreDisplay": 87,
+          "sampleSize": 4,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "+1.0 41% 115",
+          "delta": 1.0488,
+          "deltaDisplay": 1,
+          "percentOverAverage": 41.1765,
+          "percentOverAverageDisplay": 41,
+          "averageHighestScore": 114.75,
+          "averageHighestScoreDisplay": 115,
+          "sampleSize": 17,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+6.8 67% 92",
+          "delta": 6.8289,
+          "deltaDisplay": 6.8,
+          "percentOverAverage": 66.6667,
+          "percentOverAverageDisplay": 67,
+          "averageHighestScore": 92,
+          "averageHighestScoreDisplay": 92,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "+3.0 64% 109",
+          "delta": 2.9716,
+          "deltaDisplay": 3,
+          "percentOverAverage": 64.2857,
+          "percentOverAverageDisplay": 64,
+          "averageHighestScore": 108.5,
+          "averageHighestScoreDisplay": 109,
+          "sampleSize": 14,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "+4.3 56% 71",
+          "delta": 4.3,
+          "deltaDisplay": 4.3,
+          "percentOverAverage": 55.5556,
+          "percentOverAverageDisplay": 56,
+          "averageHighestScore": 71,
+          "averageHighestScoreDisplay": 71,
+          "sampleSize": 9,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "-5.8 38% 72",
+          "delta": -5.8183,
+          "deltaDisplay": -5.8,
+          "percentOverAverage": 37.5,
+          "percentOverAverageDisplay": 38,
+          "averageHighestScore": 72,
+          "averageHighestScoreDisplay": 72,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "+1.4 52% 115",
+          "delta": 1.374,
+          "deltaDisplay": 1.4,
+          "percentOverAverage": 52.3045,
+          "percentOverAverageDisplay": 52,
+          "averageHighestScore": 114.75,
+          "averageHighestScoreDisplay": 115,
+          "sampleSize": 88,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    },
+    {
+      "sourceOpponent": "WCE",
+      "opponent": "WCE",
+      "display": {
+        "FULL TEAM": "-3.7 42% 113",
+        "KEY FWD": "-8.7 33% 65",
+        "SML FWD": "-0.8 60% 70",
+        "HIGH FWD": "-11.6 40% 64",
+        "RUCK": "+14.8 75% 87",
+        "INS MID": "-5.8 35% 113",
+        "OUT MID": "+3.2 62% 90",
+        "REB BACK": "-18.8 25% 77",
+        "GEN BACK": "-3.7 25% 62",
+        "KEY BACK": "-2.4 25% 68"
+      },
+      "values": {
+        "KEY FWD": {
+          "display": "-8.7 33% 65",
+          "delta": -8.7432,
+          "deltaDisplay": -8.7,
+          "percentOverAverage": 33.3333,
+          "percentOverAverageDisplay": 33,
+          "averageHighestScore": 64.5,
+          "averageHighestScoreDisplay": 65,
+          "sampleSize": 12,
+          "roundCount": 4
+        },
+        "SML FWD": {
+          "display": "-0.8 60% 70",
+          "delta": -0.7747,
+          "deltaDisplay": -0.8,
+          "percentOverAverage": 60,
+          "percentOverAverageDisplay": 60,
+          "averageHighestScore": 69.5,
+          "averageHighestScoreDisplay": 70,
+          "sampleSize": 10,
+          "roundCount": 4
+        },
+        "HIGH FWD": {
+          "display": "-11.6 40% 64",
+          "delta": -11.6222,
+          "deltaDisplay": -11.6,
+          "percentOverAverage": 40,
+          "percentOverAverageDisplay": 40,
+          "averageHighestScore": 63.75,
+          "averageHighestScoreDisplay": 64,
+          "sampleSize": 5,
+          "roundCount": 4
+        },
+        "RUCK": {
+          "display": "+14.8 75% 87",
+          "delta": 14.8326,
+          "deltaDisplay": 14.8,
+          "percentOverAverage": 75,
+          "percentOverAverageDisplay": 75,
+          "averageHighestScore": 87.25,
+          "averageHighestScoreDisplay": 87,
+          "sampleSize": 4,
+          "roundCount": 4
+        },
+        "INS MID": {
+          "display": "-5.8 35% 113",
+          "delta": -5.7973,
+          "deltaDisplay": -5.8,
+          "percentOverAverage": 35,
+          "percentOverAverageDisplay": 35,
+          "averageHighestScore": 112.5,
+          "averageHighestScoreDisplay": 113,
+          "sampleSize": 20,
+          "roundCount": 4
+        },
+        "OUT MID": {
+          "display": "+3.2 62% 90",
+          "delta": 3.2428,
+          "deltaDisplay": 3.2,
+          "percentOverAverage": 61.5385,
+          "percentOverAverageDisplay": 62,
+          "averageHighestScore": 90,
+          "averageHighestScoreDisplay": 90,
+          "sampleSize": 13,
+          "roundCount": 4
+        },
+        "REB BACK": {
+          "display": "-18.8 25% 77",
+          "delta": -18.7584,
+          "deltaDisplay": -18.8,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 76.75,
+          "averageHighestScoreDisplay": 77,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "GEN BACK": {
+          "display": "-3.7 25% 62",
+          "delta": -3.6916,
+          "deltaDisplay": -3.7,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 62,
+          "averageHighestScoreDisplay": 62,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "KEY BACK": {
+          "display": "-2.4 25% 68",
+          "delta": -2.3527,
+          "deltaDisplay": -2.4,
+          "percentOverAverage": 25,
+          "percentOverAverageDisplay": 25,
+          "averageHighestScore": 68,
+          "averageHighestScoreDisplay": 68,
+          "sampleSize": 8,
+          "roundCount": 4
+        },
+        "FULL TEAM": {
+          "display": "-3.7 42% 113",
+          "delta": -3.7405,
+          "deltaDisplay": -3.7,
+          "percentOverAverage": 42.208,
+          "percentOverAverageDisplay": 42,
+          "averageHighestScore": 112.5,
+          "averageHighestScoreDisplay": 113,
+          "sampleSize": 88,
+          "roundCount": 4,
+          "roleCount": 9
+        }
+      }
+    }
+  ]
+}
