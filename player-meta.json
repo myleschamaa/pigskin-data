@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "provider": "pigskin_player_meta",
-  "generatedAt": "2026-06-23T11:04:15.480Z",
+  "generatedAt": "2026-06-23T11:06:03.798Z",
   "meta": {
     "dataType": "player-meta",
     "sourceRound": 14,
-    "generatedAt": "2026-06-23T11:04:15.480Z"
+    "generatedAt": "2026-06-23T11:06:03.798Z"
   },
   "playersById": {
     "afl:CD_I1023261": {
