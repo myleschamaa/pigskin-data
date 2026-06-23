@@ -2,6 +2,11 @@
   "schemaVersion": 1,
   "provider": "pigskin_player_meta",
   "generatedAt": "2026-06-15T11:45:14.044Z",
+  "meta": {
+    "dataType": "player-meta",
+    "sourceRound": 14,
+    "generatedAt": "2026-06-15T11:45:14.044Z"
+  },
   "playersById": {
     "afl:CD_I1023261": {
       "name": "Nick Daicos",
