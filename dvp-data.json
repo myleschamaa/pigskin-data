@@ -34,48 +34,7 @@
     "dataRound": 16,
     "currentRound": 17,
     "scoring": "AF",
-    "metric": "Points",
-    "dvpDataRowCount": 5076,
-    "roundRange": {
-      "min": 0,
-      "max": 16,
-      "values": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ]
-    },
-    "roundSelection": "Last 5 Rounds",
-    "roundsIncluded": [
-      13,
-      14,
-      15,
-      16,
-      17
-    ],
-    "roundsWithDataIncluded": [
-      13,
-      14,
-      15,
-      16
-    ],
-    "filteredRowCount": 1069,
-    "ignoredPositionRows": 1,
-    "skippedInvalidRows": 0
+    "metric": "Points"
   },
   "columns": [
     "FULL TEAM",
@@ -91,7 +50,6 @@
   ],
   "byOpponent": {
     "ADE": {
-      "sourceOpponent": "ADL",
       "display": {
         "FULL TEAM": "-4.1 36% 119",
         "KEY FWD": "+1.5 50% 82",
@@ -219,7 +177,6 @@
       }
     },
     "BL": {
-      "sourceOpponent": "BRL",
       "display": {
         "FULL TEAM": "-2.3 35% 113",
         "KEY FWD": "-2.3 50% 63",
@@ -347,7 +304,6 @@
       }
     },
     "CAR": {
-      "sourceOpponent": "CAR",
       "display": {
         "FULL TEAM": "-5.0 29% 105",
         "KEY FWD": "-12.9 25% 59",
@@ -475,7 +431,6 @@
       }
     },
     "COL": {
-      "sourceOpponent": "COL",
       "display": {
         "FULL TEAM": "+3.6 53% 113",
         "KEY FWD": "+3.3 80% 58",
@@ -603,7 +558,6 @@
       }
     },
     "ESS": {
-      "sourceOpponent": "ESS",
       "display": {
         "FULL TEAM": "+3.7 61% 138",
         "KEY FWD": "+6.9 88% 79",
@@ -731,7 +685,6 @@
       }
     },
     "FRE": {
-      "sourceOpponent": "FRE",
       "display": {
         "FULL TEAM": "-11.4 23% 100",
         "KEY FWD": "-11.1 22% 64",
@@ -859,7 +812,6 @@
       }
     },
     "GC": {
-      "sourceOpponent": "GCS",
       "display": {
         "FULL TEAM": "-4.1 33% 118",
         "KEY FWD": "-3.8 20% 84",
@@ -987,7 +939,6 @@
       }
     },
     "GEE": {
-      "sourceOpponent": "GEE",
       "display": {
         "FULL TEAM": "+3.6 47% 132",
         "KEY FWD": "-3.2 29% 68",
@@ -1115,7 +1066,6 @@
       }
     },
     "GWS": {
-      "sourceOpponent": "GWS",
       "display": {
         "FULL TEAM": "-0.3 49% 114",
         "KEY FWD": "+2.7 63% 81",
@@ -1243,7 +1193,6 @@
       }
     },
     "HAW": {
-      "sourceOpponent": "HAW",
       "display": {
         "FULL TEAM": "+0.6 47% 127",
         "KEY FWD": "-3.7 50% 67",
@@ -1371,7 +1320,6 @@
       }
     },
     "MEL": {
-      "sourceOpponent": "MEL",
       "display": {
         "FULL TEAM": "+1.3 49% 115",
         "KEY FWD": "-7.9 0% 53",
@@ -1499,7 +1447,6 @@
       }
     },
     "NM": {
-      "sourceOpponent": "NTH",
       "display": {
         "FULL TEAM": "+0.8 49% 102",
         "KEY FWD": "+7.4 56% 73",
@@ -1627,7 +1574,6 @@
       }
     },
     "PA": {
-      "sourceOpponent": "PTA",
       "display": {
         "FULL TEAM": "-3.9 42% 113",
         "KEY FWD": "+14.3 90% 88",
@@ -1755,7 +1701,6 @@
       }
     },
     "RIC": {
-      "sourceOpponent": "RIC",
       "display": {
         "FULL TEAM": "+3.4 56% 137",
         "KEY FWD": "+8.9 75% 82",
@@ -1883,7 +1828,6 @@
       }
     },
     "STK": {
-      "sourceOpponent": "STK",
       "display": {
         "FULL TEAM": "+3.7 65% 118",
         "KEY FWD": "-3.3 33% 72",
@@ -2011,7 +1955,6 @@
       }
     },
     "SYD": {
-      "sourceOpponent": "SYD",
       "display": {
         "FULL TEAM": "+0.2 53% 115",
         "KEY FWD": "-0.3 38% 82",
@@ -2139,7 +2082,6 @@
       }
     },
     "WB": {
-      "sourceOpponent": "WBD",
       "display": {
         "FULL TEAM": "+6.9 74% 135",
         "KEY FWD": "+6.1 71% 88",
@@ -2267,7 +2209,6 @@
       }
     },
     "WCE": {
-      "sourceOpponent": "WCE",
       "display": {
         "FULL TEAM": "+2.0 56% 112",
         "KEY FWD": "+3.1 83% 80",
@@ -2397,7 +2338,6 @@
   },
   "rows": [
     {
-      "sourceOpponent": "ADL",
       "opponent": "ADE",
       "display": {
         "FULL TEAM": "-4.1 36% 119",
@@ -2526,7 +2466,6 @@
       }
     },
     {
-      "sourceOpponent": "BRL",
       "opponent": "BL",
       "display": {
         "FULL TEAM": "-2.3 35% 113",
@@ -2655,7 +2594,6 @@
       }
     },
     {
-      "sourceOpponent": "CAR",
       "opponent": "CAR",
       "display": {
         "FULL TEAM": "-5.0 29% 105",
@@ -2784,7 +2722,6 @@
       }
     },
     {
-      "sourceOpponent": "COL",
       "opponent": "COL",
       "display": {
         "FULL TEAM": "+3.6 53% 113",
@@ -2913,7 +2850,6 @@
       }
     },
     {
-      "sourceOpponent": "ESS",
       "opponent": "ESS",
       "display": {
         "FULL TEAM": "+3.7 61% 138",
@@ -3042,7 +2978,6 @@
       }
     },
     {
-      "sourceOpponent": "FRE",
       "opponent": "FRE",
       "display": {
         "FULL TEAM": "-11.4 23% 100",
@@ -3171,7 +3106,6 @@
       }
     },
     {
-      "sourceOpponent": "GCS",
       "opponent": "GC",
       "display": {
         "FULL TEAM": "-4.1 33% 118",
@@ -3300,7 +3234,6 @@
       }
     },
     {
-      "sourceOpponent": "GEE",
       "opponent": "GEE",
       "display": {
         "FULL TEAM": "+3.6 47% 132",
@@ -3429,7 +3362,6 @@
       }
     },
     {
-      "sourceOpponent": "GWS",
       "opponent": "GWS",
       "display": {
         "FULL TEAM": "-0.3 49% 114",
@@ -3558,7 +3490,6 @@
       }
     },
     {
-      "sourceOpponent": "HAW",
       "opponent": "HAW",
       "display": {
         "FULL TEAM": "+0.6 47% 127",
@@ -3687,7 +3618,6 @@
       }
     },
     {
-      "sourceOpponent": "MEL",
       "opponent": "MEL",
       "display": {
         "FULL TEAM": "+1.3 49% 115",
@@ -3816,7 +3746,6 @@
       }
     },
     {
-      "sourceOpponent": "NTH",
       "opponent": "NM",
       "display": {
         "FULL TEAM": "+0.8 49% 102",
@@ -3945,7 +3874,6 @@
       }
     },
     {
-      "sourceOpponent": "PTA",
       "opponent": "PA",
       "display": {
         "FULL TEAM": "-3.9 42% 113",
@@ -4074,7 +4002,6 @@
       }
     },
     {
-      "sourceOpponent": "RIC",
       "opponent": "RIC",
       "display": {
         "FULL TEAM": "+3.4 56% 137",
@@ -4203,7 +4130,6 @@
       }
     },
     {
-      "sourceOpponent": "STK",
       "opponent": "STK",
       "display": {
         "FULL TEAM": "+3.7 65% 118",
@@ -4332,7 +4258,6 @@
       }
     },
     {
-      "sourceOpponent": "SYD",
       "opponent": "SYD",
       "display": {
         "FULL TEAM": "+0.2 53% 115",
@@ -4461,7 +4386,6 @@
       }
     },
     {
-      "sourceOpponent": "WBD",
       "opponent": "WB",
       "display": {
         "FULL TEAM": "+6.9 74% 135",
@@ -4590,7 +4514,6 @@
       }
     },
     {
-      "sourceOpponent": "WCE",
       "opponent": "WCE",
       "display": {
         "FULL TEAM": "+2.0 56% 112",
@@ -4727,41 +4650,7 @@
         "dataRound": 16,
         "currentRound": 17,
         "scoring": "AF",
-        "metric": "Points",
-        "dvpDataRowCount": 5076,
-        "roundRange": {
-          "min": 0,
-          "max": 16,
-          "values": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        "roundSelection": "Last week",
-        "roundsIncluded": [
-          16
-        ],
-        "roundsWithDataIncluded": [
-          16
-        ],
-        "filteredRowCount": 255,
-        "ignoredPositionRows": 0,
-        "skippedInvalidRows": 0
+        "metric": "Points"
       },
       "columns": [
         "FULL TEAM",
@@ -4777,7 +4666,6 @@
       ],
       "byOpponent": {
         "ADE": {
-          "sourceOpponent": "ADL",
           "display": {
             "FULL TEAM": "-0.7 41% 142",
             "KEY FWD": "+16.4 100% 101",
@@ -4905,7 +4793,6 @@
           }
         },
         "BL": {
-          "sourceOpponent": "BRL",
           "display": {
             "FULL TEAM": "-10.0 35% 128",
             "KEY FWD": "-11.6 50% 77",
@@ -5033,7 +4920,6 @@
           }
         },
         "CAR": {
-          "sourceOpponent": "CAR",
           "display": {
             "FULL TEAM": "-8.4 4% 82",
             "KEY FWD": "-15.9 0% 62",
@@ -5161,7 +5047,6 @@
           }
         },
         "COL": {
-          "sourceOpponent": "COL",
           "display": {
             "FULL TEAM": "+0.4 44% 105",
             "KEY FWD": "-27.8 0% 19",
@@ -5289,7 +5174,6 @@
           }
         },
         "ESS": {
-          "sourceOpponent": "ESS",
           "display": {
             "FULL TEAM": "+9.3 81% 173",
             "KEY FWD": "+7.8 100% 75",
@@ -5417,7 +5301,6 @@
           }
         },
         "FRE": {
-          "sourceOpponent": "FRE",
           "display": {
             "FULL TEAM": "-10.9 22% 120",
             "KEY FWD": "-12.1 0% 43",
@@ -5545,7 +5428,6 @@
           }
         },
         "GC": {
-          "sourceOpponent": "GCS",
           "display": {
             "FULL TEAM": "+0.8 49% 131",
             "KEY FWD": "-19.7 0% 64",
@@ -5673,7 +5555,6 @@
           }
         },
         "GEE": {
-          "sourceOpponent": "GEE",
           "display": {
             "FULL TEAM": "-",
             "KEY FWD": "-",
@@ -5800,7 +5681,6 @@
           }
         },
         "GWS": {
-          "sourceOpponent": "GWS",
           "display": {
             "FULL TEAM": "-0.5 50% 116",
             "KEY FWD": "-5.7 33% 67",
@@ -5928,7 +5808,6 @@
           }
         },
         "HAW": {
-          "sourceOpponent": "HAW",
           "display": {
             "FULL TEAM": "+0.0 52% 129",
             "KEY FWD": "-5.9 50% 71",
@@ -6056,7 +5935,6 @@
           }
         },
         "MEL": {
-          "sourceOpponent": "MEL",
           "display": {
             "FULL TEAM": "-",
             "KEY FWD": "-",
@@ -6183,7 +6061,6 @@
           }
         },
         "NM": {
-          "sourceOpponent": "NTH",
           "display": {
             "FULL TEAM": "+2.6 62% 118",
             "KEY FWD": "-10.6 0% 44",
@@ -6311,7 +6188,6 @@
           }
         },
         "PA": {
-          "sourceOpponent": "PTA",
           "display": {
             "FULL TEAM": "-14.0 26% 108",
             "KEY FWD": "+8.1 50% 77",
@@ -6439,7 +6315,6 @@
           }
         },
         "RIC": {
-          "sourceOpponent": "RIC",
           "display": {
             "FULL TEAM": "+1.2 48% 143",
             "KEY FWD": "+3.9 67% 69",
@@ -6567,7 +6442,6 @@
           }
         },
         "STK": {
-          "sourceOpponent": "STK",
           "display": {
             "FULL TEAM": "-",
             "KEY FWD": "-",
@@ -6694,7 +6568,6 @@
           }
         },
         "SYD": {
-          "sourceOpponent": "SYD",
           "display": {
             "FULL TEAM": "+0.8 44% 134",
             "KEY FWD": "+8.3 33% 77",
@@ -6822,7 +6695,6 @@
           }
         },
         "WB": {
-          "sourceOpponent": "WBD",
           "display": {
             "FULL TEAM": "-",
             "KEY FWD": "-",
@@ -6949,7 +6821,6 @@
           }
         },
         "WCE": {
-          "sourceOpponent": "WCE",
           "display": {
             "FULL TEAM": "+6.3 68% 112",
             "KEY FWD": "+8.0 100% 84",
@@ -7079,7 +6950,6 @@
       },
       "rows": [
         {
-          "sourceOpponent": "ADL",
           "opponent": "ADE",
           "display": {
             "FULL TEAM": "-0.7 41% 142",
@@ -7208,7 +7078,6 @@
           }
         },
         {
-          "sourceOpponent": "BRL",
           "opponent": "BL",
           "display": {
             "FULL TEAM": "-10.0 35% 128",
@@ -7337,7 +7206,6 @@
           }
         },
         {
-          "sourceOpponent": "CAR",
           "opponent": "CAR",
           "display": {
             "FULL TEAM": "-8.4 4% 82",
@@ -7466,7 +7334,6 @@
           }
         },
         {
-          "sourceOpponent": "COL",
           "opponent": "COL",
           "display": {
             "FULL TEAM": "+0.4 44% 105",
@@ -7595,7 +7462,6 @@
           }
         },
         {
-          "sourceOpponent": "ESS",
           "opponent": "ESS",
           "display": {
             "FULL TEAM": "+9.3 81% 173",
@@ -7724,7 +7590,6 @@
           }
         },
         {
-          "sourceOpponent": "FRE",
           "opponent": "FRE",
           "display": {
             "FULL TEAM": "-10.9 22% 120",
@@ -7853,7 +7718,6 @@
           }
         },
         {
-          "sourceOpponent": "GCS",
           "opponent": "GC",
           "display": {
             "FULL TEAM": "+0.8 49% 131",
@@ -7982,7 +7846,6 @@
           }
         },
         {
-          "sourceOpponent": "GEE",
           "opponent": "GEE",
           "display": {
             "FULL TEAM": "-",
@@ -8110,7 +7973,6 @@
           }
         },
         {
-          "sourceOpponent": "GWS",
           "opponent": "GWS",
           "display": {
             "FULL TEAM": "-0.5 50% 116",
@@ -8239,7 +8101,6 @@
           }
         },
         {
-          "sourceOpponent": "HAW",
           "opponent": "HAW",
           "display": {
             "FULL TEAM": "+0.0 52% 129",
@@ -8368,7 +8229,6 @@
           }
         },
         {
-          "sourceOpponent": "MEL",
           "opponent": "MEL",
           "display": {
             "FULL TEAM": "-",
@@ -8496,7 +8356,6 @@
           }
         },
         {
-          "sourceOpponent": "NTH",
           "opponent": "NM",
           "display": {
             "FULL TEAM": "+2.6 62% 118",
@@ -8625,7 +8484,6 @@
           }
         },
         {
-          "sourceOpponent": "PTA",
           "opponent": "PA",
           "display": {
             "FULL TEAM": "-14.0 26% 108",
@@ -8754,7 +8612,6 @@
           }
         },
         {
-          "sourceOpponent": "RIC",
           "opponent": "RIC",
           "display": {
             "FULL TEAM": "+1.2 48% 143",
@@ -8883,7 +8740,6 @@
           }
         },
         {
-          "sourceOpponent": "STK",
           "opponent": "STK",
           "display": {
             "FULL TEAM": "-",
@@ -9011,7 +8867,6 @@
           }
         },
         {
-          "sourceOpponent": "SYD",
           "opponent": "SYD",
           "display": {
             "FULL TEAM": "+0.8 44% 134",
@@ -9140,7 +8995,6 @@
           }
         },
         {
-          "sourceOpponent": "WBD",
           "opponent": "WB",
           "display": {
             "FULL TEAM": "-",
@@ -9268,7 +9122,6 @@
           }
         },
         {
-          "sourceOpponent": "WCE",
           "opponent": "WCE",
           "display": {
             "FULL TEAM": "+6.3 68% 112",
@@ -9405,48 +9258,7 @@
         "dataRound": 16,
         "currentRound": 17,
         "scoring": "AF",
-        "metric": "Points",
-        "dvpDataRowCount": 5076,
-        "roundRange": {
-          "min": 0,
-          "max": 16,
-          "values": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        "roundSelection": "Last 5 Rounds",
-        "roundsIncluded": [
-          13,
-          14,
-          15,
-          16,
-          17
-        ],
-        "roundsWithDataIncluded": [
-          13,
-          14,
-          15,
-          16
-        ],
-        "filteredRowCount": 1069,
-        "ignoredPositionRows": 1,
-        "skippedInvalidRows": 0
+        "metric": "Points"
       },
       "columns": [
         "FULL TEAM",
@@ -9462,7 +9274,6 @@
       ],
       "byOpponent": {
         "ADE": {
-          "sourceOpponent": "ADL",
           "display": {
             "FULL TEAM": "-4.1 36% 119",
             "KEY FWD": "+1.5 50% 82",
@@ -9590,7 +9401,6 @@
           }
         },
         "BL": {
-          "sourceOpponent": "BRL",
           "display": {
             "FULL TEAM": "-2.3 35% 113",
             "KEY FWD": "-2.3 50% 63",
@@ -9718,7 +9528,6 @@
           }
         },
         "CAR": {
-          "sourceOpponent": "CAR",
           "display": {
             "FULL TEAM": "-5.0 29% 105",
             "KEY FWD": "-12.9 25% 59",
@@ -9846,7 +9655,6 @@
           }
         },
         "COL": {
-          "sourceOpponent": "COL",
           "display": {
             "FULL TEAM": "+3.6 53% 113",
             "KEY FWD": "+3.3 80% 58",
@@ -9974,7 +9782,6 @@
           }
         },
         "ESS": {
-          "sourceOpponent": "ESS",
           "display": {
             "FULL TEAM": "+3.7 61% 138",
             "KEY FWD": "+6.9 88% 79",
@@ -10102,7 +9909,6 @@
           }
         },
         "FRE": {
-          "sourceOpponent": "FRE",
           "display": {
             "FULL TEAM": "-11.4 23% 100",
             "KEY FWD": "-11.1 22% 64",
@@ -10230,7 +10036,6 @@
           }
         },
         "GC": {
-          "sourceOpponent": "GCS",
           "display": {
             "FULL TEAM": "-4.1 33% 118",
             "KEY FWD": "-3.8 20% 84",
@@ -10358,7 +10163,6 @@
           }
         },
         "GEE": {
-          "sourceOpponent": "GEE",
           "display": {
             "FULL TEAM": "+3.6 47% 132",
             "KEY FWD": "-3.2 29% 68",
@@ -10486,7 +10290,6 @@
           }
         },
         "GWS": {
-          "sourceOpponent": "GWS",
           "display": {
             "FULL TEAM": "-0.3 49% 114",
             "KEY FWD": "+2.7 63% 81",
@@ -10614,7 +10417,6 @@
           }
         },
         "HAW": {
-          "sourceOpponent": "HAW",
           "display": {
             "FULL TEAM": "+0.6 47% 127",
             "KEY FWD": "-3.7 50% 67",
@@ -10742,7 +10544,6 @@
           }
         },
         "MEL": {
-          "sourceOpponent": "MEL",
           "display": {
             "FULL TEAM": "+1.3 49% 115",
             "KEY FWD": "-7.9 0% 53",
@@ -10870,7 +10671,6 @@
           }
         },
         "NM": {
-          "sourceOpponent": "NTH",
           "display": {
             "FULL TEAM": "+0.8 49% 102",
             "KEY FWD": "+7.4 56% 73",
@@ -10998,7 +10798,6 @@
           }
         },
         "PA": {
-          "sourceOpponent": "PTA",
           "display": {
             "FULL TEAM": "-3.9 42% 113",
             "KEY FWD": "+14.3 90% 88",
@@ -11126,7 +10925,6 @@
           }
         },
         "RIC": {
-          "sourceOpponent": "RIC",
           "display": {
             "FULL TEAM": "+3.4 56% 137",
             "KEY FWD": "+8.9 75% 82",
@@ -11254,7 +11052,6 @@
           }
         },
         "STK": {
-          "sourceOpponent": "STK",
           "display": {
             "FULL TEAM": "+3.7 65% 118",
             "KEY FWD": "-3.3 33% 72",
@@ -11382,7 +11179,6 @@
           }
         },
         "SYD": {
-          "sourceOpponent": "SYD",
           "display": {
             "FULL TEAM": "+0.2 53% 115",
             "KEY FWD": "-0.3 38% 82",
@@ -11510,7 +11306,6 @@
           }
         },
         "WB": {
-          "sourceOpponent": "WBD",
           "display": {
             "FULL TEAM": "+6.9 74% 135",
             "KEY FWD": "+6.1 71% 88",
@@ -11638,7 +11433,6 @@
           }
         },
         "WCE": {
-          "sourceOpponent": "WCE",
           "display": {
             "FULL TEAM": "+2.0 56% 112",
             "KEY FWD": "+3.1 83% 80",
@@ -11768,7 +11562,6 @@
       },
       "rows": [
         {
-          "sourceOpponent": "ADL",
           "opponent": "ADE",
           "display": {
             "FULL TEAM": "-4.1 36% 119",
@@ -11897,7 +11690,6 @@
           }
         },
         {
-          "sourceOpponent": "BRL",
           "opponent": "BL",
           "display": {
             "FULL TEAM": "-2.3 35% 113",
@@ -12026,7 +11818,6 @@
           }
         },
         {
-          "sourceOpponent": "CAR",
           "opponent": "CAR",
           "display": {
             "FULL TEAM": "-5.0 29% 105",
@@ -12155,7 +11946,6 @@
           }
         },
         {
-          "sourceOpponent": "COL",
           "opponent": "COL",
           "display": {
             "FULL TEAM": "+3.6 53% 113",
@@ -12284,7 +12074,6 @@
           }
         },
         {
-          "sourceOpponent": "ESS",
           "opponent": "ESS",
           "display": {
             "FULL TEAM": "+3.7 61% 138",
@@ -12413,7 +12202,6 @@
           }
         },
         {
-          "sourceOpponent": "FRE",
           "opponent": "FRE",
           "display": {
             "FULL TEAM": "-11.4 23% 100",
@@ -12542,7 +12330,6 @@
           }
         },
         {
-          "sourceOpponent": "GCS",
           "opponent": "GC",
           "display": {
             "FULL TEAM": "-4.1 33% 118",
@@ -12671,7 +12458,6 @@
           }
         },
         {
-          "sourceOpponent": "GEE",
           "opponent": "GEE",
           "display": {
             "FULL TEAM": "+3.6 47% 132",
@@ -12800,7 +12586,6 @@
           }
         },
         {
-          "sourceOpponent": "GWS",
           "opponent": "GWS",
           "display": {
             "FULL TEAM": "-0.3 49% 114",
@@ -12929,7 +12714,6 @@
           }
         },
         {
-          "sourceOpponent": "HAW",
           "opponent": "HAW",
           "display": {
             "FULL TEAM": "+0.6 47% 127",
@@ -13058,7 +12842,6 @@
           }
         },
         {
-          "sourceOpponent": "MEL",
           "opponent": "MEL",
           "display": {
             "FULL TEAM": "+1.3 49% 115",
@@ -13187,7 +12970,6 @@
           }
         },
         {
-          "sourceOpponent": "NTH",
           "opponent": "NM",
           "display": {
             "FULL TEAM": "+0.8 49% 102",
@@ -13316,7 +13098,6 @@
           }
         },
         {
-          "sourceOpponent": "PTA",
           "opponent": "PA",
           "display": {
             "FULL TEAM": "-3.9 42% 113",
@@ -13445,7 +13226,6 @@
           }
         },
         {
-          "sourceOpponent": "RIC",
           "opponent": "RIC",
           "display": {
             "FULL TEAM": "+3.4 56% 137",
@@ -13574,7 +13354,6 @@
           }
         },
         {
-          "sourceOpponent": "STK",
           "opponent": "STK",
           "display": {
             "FULL TEAM": "+3.7 65% 118",
@@ -13703,7 +13482,6 @@
           }
         },
         {
-          "sourceOpponent": "SYD",
           "opponent": "SYD",
           "display": {
             "FULL TEAM": "+0.2 53% 115",
@@ -13832,7 +13610,6 @@
           }
         },
         {
-          "sourceOpponent": "WBD",
           "opponent": "WB",
           "display": {
             "FULL TEAM": "+6.9 74% 135",
@@ -13961,7 +13738,6 @@
           }
         },
         {
-          "sourceOpponent": "WCE",
           "opponent": "WCE",
           "display": {
             "FULL TEAM": "+2.0 56% 112",
@@ -14098,58 +13874,7 @@
         "dataRound": 16,
         "currentRound": 17,
         "scoring": "AF",
-        "metric": "Points",
-        "dvpDataRowCount": 5076,
-        "roundRange": {
-          "min": 0,
-          "max": 16,
-          "values": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        "roundSelection": "Last 10 weeks",
-        "roundsIncluded": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
-        ],
-        "roundsWithDataIncluded": [
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
-        ],
-        "filteredRowCount": 2695,
-        "ignoredPositionRows": 3,
-        "skippedInvalidRows": 0
+        "metric": "Points"
       },
       "columns": [
         "FULL TEAM",
@@ -14165,7 +13890,6 @@
       ],
       "byOpponent": {
         "ADE": {
-          "sourceOpponent": "ADL",
           "display": {
             "FULL TEAM": "-4.5 37% 109",
             "KEY FWD": "-4.2 44% 68",
@@ -14293,7 +14017,6 @@
           }
         },
         "BL": {
-          "sourceOpponent": "BRL",
           "display": {
             "FULL TEAM": "-0.6 44% 115",
             "KEY FWD": "+8.7 65% 85",
@@ -14421,7 +14144,6 @@
           }
         },
         "CAR": {
-          "sourceOpponent": "CAR",
           "display": {
             "FULL TEAM": "-2.8 41% 112",
             "KEY FWD": "-0.8 44% 74",
@@ -14549,7 +14271,6 @@
           }
         },
         "COL": {
-          "sourceOpponent": "COL",
           "display": {
             "FULL TEAM": "+3.7 55% 109",
             "KEY FWD": "-3.1 56% 60",
@@ -14677,7 +14398,6 @@
           }
         },
         "ESS": {
-          "sourceOpponent": "ESS",
           "display": {
             "FULL TEAM": "+4.3 60% 120",
             "KEY FWD": "+6.1 83% 79",
@@ -14805,7 +14525,6 @@
           }
         },
         "FRE": {
-          "sourceOpponent": "FRE",
           "display": {
             "FULL TEAM": "-8.4 32% 103",
             "KEY FWD": "-8.5 23% 68",
@@ -14933,7 +14652,6 @@
           }
         },
         "GC": {
-          "sourceOpponent": "GCS",
           "display": {
             "FULL TEAM": "-4.8 31% 118",
             "KEY FWD": "-7.4 20% 73",
@@ -15061,7 +14779,6 @@
           }
         },
         "GEE": {
-          "sourceOpponent": "GEE",
           "display": {
             "FULL TEAM": "+0.1 46% 111",
             "KEY FWD": "-3.3 25% 68",
@@ -15189,7 +14906,6 @@
           }
         },
         "GWS": {
-          "sourceOpponent": "GWS",
           "display": {
             "FULL TEAM": "+1.2 46% 112",
             "KEY FWD": "-1.2 43% 70",
@@ -15317,7 +15033,6 @@
           }
         },
         "HAW": {
-          "sourceOpponent": "HAW",
           "display": {
             "FULL TEAM": "-1.4 42% 115",
             "KEY FWD": "-4.5 44% 66",
@@ -15445,7 +15160,6 @@
           }
         },
         "MEL": {
-          "sourceOpponent": "MEL",
           "display": {
             "FULL TEAM": "+3.0 54% 109",
             "KEY FWD": "-1.2 40% 68",
@@ -15573,7 +15287,6 @@
           }
         },
         "NM": {
-          "sourceOpponent": "NTH",
           "display": {
             "FULL TEAM": "-2.4 45% 94",
             "KEY FWD": "+2.8 50% 68",
@@ -15701,7 +15414,6 @@
           }
         },
         "PA": {
-          "sourceOpponent": "PTA",
           "display": {
             "FULL TEAM": "-0.3 50% 122",
             "KEY FWD": "+8.8 81% 78",
@@ -15829,7 +15541,6 @@
           }
         },
         "RIC": {
-          "sourceOpponent": "RIC",
           "display": {
             "FULL TEAM": "+4.7 60% 137",
             "KEY FWD": "+11.8 71% 93",
@@ -15957,7 +15668,6 @@
           }
         },
         "STK": {
-          "sourceOpponent": "STK",
           "display": {
             "FULL TEAM": "+3.3 57% 107",
             "KEY FWD": "+3.6 53% 79",
@@ -16085,7 +15795,6 @@
           }
         },
         "SYD": {
-          "sourceOpponent": "SYD",
           "display": {
             "FULL TEAM": "-1.6 44% 108",
             "KEY FWD": "-0.6 45% 72",
@@ -16213,7 +15922,6 @@
           }
         },
         "WB": {
-          "sourceOpponent": "WBD",
           "display": {
             "FULL TEAM": "+4.5 64% 120",
             "KEY FWD": "+5.4 61% 82",
@@ -16341,7 +16049,6 @@
           }
         },
         "WCE": {
-          "sourceOpponent": "WCE",
           "display": {
             "FULL TEAM": "+1.3 50% 110",
             "KEY FWD": "+2.1 60% 72",
@@ -16471,7 +16178,6 @@
       },
       "rows": [
         {
-          "sourceOpponent": "ADL",
           "opponent": "ADE",
           "display": {
             "FULL TEAM": "-4.5 37% 109",
@@ -16600,7 +16306,6 @@
           }
         },
         {
-          "sourceOpponent": "BRL",
           "opponent": "BL",
           "display": {
             "FULL TEAM": "-0.6 44% 115",
@@ -16729,7 +16434,6 @@
           }
         },
         {
-          "sourceOpponent": "CAR",
           "opponent": "CAR",
           "display": {
             "FULL TEAM": "-2.8 41% 112",
@@ -16858,7 +16562,6 @@
           }
         },
         {
-          "sourceOpponent": "COL",
           "opponent": "COL",
           "display": {
             "FULL TEAM": "+3.7 55% 109",
@@ -16987,7 +16690,6 @@
           }
         },
         {
-          "sourceOpponent": "ESS",
           "opponent": "ESS",
           "display": {
             "FULL TEAM": "+4.3 60% 120",
@@ -17116,7 +16818,6 @@
           }
         },
         {
-          "sourceOpponent": "FRE",
           "opponent": "FRE",
           "display": {
             "FULL TEAM": "-8.4 32% 103",
@@ -17245,7 +16946,6 @@
           }
         },
         {
-          "sourceOpponent": "GCS",
           "opponent": "GC",
           "display": {
             "FULL TEAM": "-4.8 31% 118",
@@ -17374,7 +17074,6 @@
           }
         },
         {
-          "sourceOpponent": "GEE",
           "opponent": "GEE",
           "display": {
             "FULL TEAM": "+0.1 46% 111",
@@ -17503,7 +17202,6 @@
           }
         },
         {
-          "sourceOpponent": "GWS",
           "opponent": "GWS",
           "display": {
             "FULL TEAM": "+1.2 46% 112",
@@ -17632,7 +17330,6 @@
           }
         },
         {
-          "sourceOpponent": "HAW",
           "opponent": "HAW",
           "display": {
             "FULL TEAM": "-1.4 42% 115",
@@ -17761,7 +17458,6 @@
           }
         },
         {
-          "sourceOpponent": "MEL",
           "opponent": "MEL",
           "display": {
             "FULL TEAM": "+3.0 54% 109",
@@ -17890,7 +17586,6 @@
           }
         },
         {
-          "sourceOpponent": "NTH",
           "opponent": "NM",
           "display": {
             "FULL TEAM": "-2.4 45% 94",
@@ -18019,7 +17714,6 @@
           }
         },
         {
-          "sourceOpponent": "PTA",
           "opponent": "PA",
           "display": {
             "FULL TEAM": "-0.3 50% 122",
@@ -18148,7 +17842,6 @@
           }
         },
         {
-          "sourceOpponent": "RIC",
           "opponent": "RIC",
           "display": {
             "FULL TEAM": "+4.7 60% 137",
@@ -18277,7 +17970,6 @@
           }
         },
         {
-          "sourceOpponent": "STK",
           "opponent": "STK",
           "display": {
             "FULL TEAM": "+3.3 57% 107",
@@ -18406,7 +18098,6 @@
           }
         },
         {
-          "sourceOpponent": "SYD",
           "opponent": "SYD",
           "display": {
             "FULL TEAM": "-1.6 44% 108",
@@ -18535,7 +18226,6 @@
           }
         },
         {
-          "sourceOpponent": "WBD",
           "opponent": "WB",
           "display": {
             "FULL TEAM": "+4.5 64% 120",
@@ -18664,7 +18354,6 @@
           }
         },
         {
-          "sourceOpponent": "WCE",
           "opponent": "WCE",
           "display": {
             "FULL TEAM": "+1.3 50% 110",
@@ -18801,74 +18490,7 @@
         "dataRound": 16,
         "currentRound": 17,
         "scoring": "AF",
-        "metric": "Points",
-        "dvpDataRowCount": 5076,
-        "roundRange": {
-          "min": 0,
-          "max": 16,
-          "values": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        },
-        "roundSelection": "Season",
-        "roundsIncluded": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
-        ],
-        "roundsWithDataIncluded": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16
-        ],
-        "filteredRowCount": 5076,
-        "ignoredPositionRows": 3,
-        "skippedInvalidRows": 0
+        "metric": "Points"
       },
       "columns": [
         "FULL TEAM",
@@ -18884,7 +18506,6 @@
       ],
       "byOpponent": {
         "ADE": {
-          "sourceOpponent": "ADL",
           "display": {
             "FULL TEAM": "-2.1 44% 117",
             "KEY FWD": "-4.4 42% 66",
@@ -19012,7 +18633,6 @@
           }
         },
         "BL": {
-          "sourceOpponent": "BRL",
           "display": {
             "FULL TEAM": "-3.0 41% 107",
             "KEY FWD": "+3.8 57% 75",
@@ -19140,7 +18760,6 @@
           }
         },
         "CAR": {
-          "sourceOpponent": "CAR",
           "display": {
             "FULL TEAM": "-0.5 43% 115",
             "KEY FWD": "-0.9 41% 71",
@@ -19268,7 +18887,6 @@
           }
         },
         "COL": {
-          "sourceOpponent": "COL",
           "display": {
             "FULL TEAM": "+3.1 55% 108",
             "KEY FWD": "-0.8 57% 70",
@@ -19396,7 +19014,6 @@
           }
         },
         "ESS": {
-          "sourceOpponent": "ESS",
           "display": {
             "FULL TEAM": "+4.7 62% 124",
             "KEY FWD": "+2.2 67% 76",
@@ -19524,7 +19141,6 @@
           }
         },
         "FRE": {
-          "sourceOpponent": "FRE",
           "display": {
             "FULL TEAM": "-5.0 37% 106",
             "KEY FWD": "-4.1 34% 72",
@@ -19652,7 +19268,6 @@
           }
         },
         "GC": {
-          "sourceOpponent": "GCS",
           "display": {
             "FULL TEAM": "-1.6 42% 119",
             "KEY FWD": "-3.6 37% 71",
@@ -19780,7 +19395,6 @@
           }
         },
         "GEE": {
-          "sourceOpponent": "GEE",
           "display": {
             "FULL TEAM": "-0.1 48% 111",
             "KEY FWD": "-3.2 36% 71",
@@ -19908,7 +19522,6 @@
           }
         },
         "GWS": {
-          "sourceOpponent": "GWS",
           "display": {
             "FULL TEAM": "+0.2 45% 110",
             "KEY FWD": "+0.5 45% 73",
@@ -20036,7 +19649,6 @@
           }
         },
         "HAW": {
-          "sourceOpponent": "HAW",
           "display": {
             "FULL TEAM": "-2.7 41% 111",
             "KEY FWD": "-5.2 40% 66",
@@ -20164,7 +19776,6 @@
           }
         },
         "MEL": {
-          "sourceOpponent": "MEL",
           "display": {
             "FULL TEAM": "+2.2 54% 106",
             "KEY FWD": "-1.0 46% 75",
@@ -20292,7 +19903,6 @@
           }
         },
         "NM": {
-          "sourceOpponent": "NTH",
           "display": {
             "FULL TEAM": "-3.5 41% 97",
             "KEY FWD": "-1.5 44% 67",
@@ -20420,7 +20030,6 @@
           }
         },
         "PA": {
-          "sourceOpponent": "PTA",
           "display": {
             "FULL TEAM": "-1.9 45% 115",
             "KEY FWD": "+0.8 51% 75",
@@ -20548,7 +20157,6 @@
           }
         },
         "RIC": {
-          "sourceOpponent": "RIC",
           "display": {
             "FULL TEAM": "+3.2 54% 125",
             "KEY FWD": "+11.4 68% 88",
@@ -20676,7 +20284,6 @@
           }
         },
         "STK": {
-          "sourceOpponent": "STK",
           "display": {
             "FULL TEAM": "+1.5 52% 108",
             "KEY FWD": "-0.8 41% 74",
@@ -20804,7 +20411,6 @@
           }
         },
         "SYD": {
-          "sourceOpponent": "SYD",
           "display": {
             "FULL TEAM": "-3.3 40% 106",
             "KEY FWD": "-4.8 39% 65",
@@ -20932,7 +20538,6 @@
           }
         },
         "WB": {
-          "sourceOpponent": "WBD",
           "display": {
             "FULL TEAM": "+4.8 61% 116",
             "KEY FWD": "+4.1 56% 86",
@@ -21060,7 +20665,6 @@
           }
         },
         "WCE": {
-          "sourceOpponent": "WCE",
           "display": {
             "FULL TEAM": "+2.3 51% 111",
             "KEY FWD": "+2.7 54% 79",
@@ -21190,7 +20794,6 @@
       },
       "rows": [
         {
-          "sourceOpponent": "ADL",
           "opponent": "ADE",
           "display": {
             "FULL TEAM": "-2.1 44% 117",
@@ -21319,7 +20922,6 @@
           }
         },
         {
-          "sourceOpponent": "BRL",
           "opponent": "BL",
           "display": {
             "FULL TEAM": "-3.0 41% 107",
@@ -21448,7 +21050,6 @@
           }
         },
         {
-          "sourceOpponent": "CAR",
           "opponent": "CAR",
           "display": {
             "FULL TEAM": "-0.5 43% 115",
@@ -21577,7 +21178,6 @@
           }
         },
         {
-          "sourceOpponent": "COL",
           "opponent": "COL",
           "display": {
             "FULL TEAM": "+3.1 55% 108",
@@ -21706,7 +21306,6 @@
           }
         },
         {
-          "sourceOpponent": "ESS",
           "opponent": "ESS",
           "display": {
             "FULL TEAM": "+4.7 62% 124",
@@ -21835,7 +21434,6 @@
           }
         },
         {
-          "sourceOpponent": "FRE",
           "opponent": "FRE",
           "display": {
             "FULL TEAM": "-5.0 37% 106",
@@ -21964,7 +21562,6 @@
           }
         },
         {
-          "sourceOpponent": "GCS",
           "opponent": "GC",
           "display": {
             "FULL TEAM": "-1.6 42% 119",
@@ -22093,7 +21690,6 @@
           }
         },
         {
-          "sourceOpponent": "GEE",
           "opponent": "GEE",
           "display": {
             "FULL TEAM": "-0.1 48% 111",
@@ -22222,7 +21818,6 @@
           }
         },
         {
-          "sourceOpponent": "GWS",
           "opponent": "GWS",
           "display": {
             "FULL TEAM": "+0.2 45% 110",
@@ -22351,7 +21946,6 @@
           }
         },
         {
-          "sourceOpponent": "HAW",
           "opponent": "HAW",
           "display": {
             "FULL TEAM": "-2.7 41% 111",
@@ -22480,7 +22074,6 @@
           }
         },
         {
-          "sourceOpponent": "MEL",
           "opponent": "MEL",
           "display": {
             "FULL TEAM": "+2.2 54% 106",
@@ -22609,7 +22202,6 @@
           }
         },
         {
-          "sourceOpponent": "NTH",
           "opponent": "NM",
           "display": {
             "FULL TEAM": "-3.5 41% 97",
@@ -22738,7 +22330,6 @@
           }
         },
         {
-          "sourceOpponent": "PTA",
           "opponent": "PA",
           "display": {
             "FULL TEAM": "-1.9 45% 115",
@@ -22867,7 +22458,6 @@
           }
         },
         {
-          "sourceOpponent": "RIC",
           "opponent": "RIC",
           "display": {
             "FULL TEAM": "+3.2 54% 125",
@@ -22996,7 +22586,6 @@
           }
         },
         {
-          "sourceOpponent": "STK",
           "opponent": "STK",
           "display": {
             "FULL TEAM": "+1.5 52% 108",
@@ -23125,7 +22714,6 @@
           }
         },
         {
-          "sourceOpponent": "SYD",
           "opponent": "SYD",
           "display": {
             "FULL TEAM": "-3.3 40% 106",
@@ -23254,7 +22842,6 @@
           }
         },
         {
-          "sourceOpponent": "WBD",
           "opponent": "WB",
           "display": {
             "FULL TEAM": "+4.8 61% 116",
@@ -23383,7 +22970,6 @@
           }
         },
         {
-          "sourceOpponent": "WCE",
           "opponent": "WCE",
           "display": {
             "FULL TEAM": "+2.3 51% 111",
